@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "jsdom": "^26.1.0",
+    "spacetime": "^7.10.0",
+    "typescript": "^5.8.3"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/fileReader.js"
+  },
+  "name": "devoshelper",
+  "description": "Automated devotional helper tool for use with daily devotional from https://bible.alpha.org/ and Google Keep Notes",
+  "version": "1.0.0",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teracross/DevosHelper.git"
+  },
+  "keywords": [
+    "bible",
+    "devotionals",
+    "daily"
+  ],
+  "author": "teracross",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teracross/DevosHelper/issues"
+  },
+  "homepage": "https://github.com/teracross/DevosHelper#readme",
+  "devDependencies": {
+    "@types/jsdom": "^21.1.7",
+    "@types/node": "^24.0.8"
+  }
+}
