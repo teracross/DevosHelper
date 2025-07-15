@@ -18,7 +18,6 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v2
 
-
       - name: Install dependencies
         run: npm install  
 
@@ -29,12 +28,12 @@ jobs:
 
       - name: Get current date in PDT
         id: pdt_date
-        run: echo "PDT_DATE=$(TZ=America/Los_Angeles date '+%Y-%m-%d')" >> $GITHUB_ENV
+        run: echo "PDT_DATE=$(TZ=America/Los_Angeles date '+%Y-%m-%d')" >> $GITHUB_OUTPUT
 
       - name: Cache the file - to be used in deployment workflow
         uses: actions/upload-artifact@v4
         with: 
-           name: $PDT_DATE
+           name: ${{ steps.pdt_date.outputs.PDT_DATE }}
            path: ./output.txt
            if-no-files-found: error
            retention-days: 2
