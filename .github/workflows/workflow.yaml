@@ -15,13 +15,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Debug CORS connection with Issue
-        run: curl -v "https://bible.alpha.org/en/classic/196/index.html"
-
       - name: Set up Node.js
         uses: actions/setup-node@v2
-        with:
-          node-version: '15.x' 
+
 
       - name: Install dependencies
         run: npm install  
