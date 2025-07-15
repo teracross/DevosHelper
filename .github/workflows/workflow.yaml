@@ -2,7 +2,7 @@ name: Generate Daily Devos Template
 
 on: 
   schedule: 
-    - cron: '47 16 * * *' # Every day at 10:00 AM UTC or approximately 3:00 AM PT (depending on daylight saving time)
+    - cron: '*/5 * * * *' # Every day at 10:00 AM UTC or approximately 3:00 AM PT (depending on daylight saving time)
   workflow_dispatch: # For testing purposes
     
 permissions: 
