@@ -4,7 +4,7 @@ Automated devotional helper tool for use with daily devotional from https://bibl
 Rights to all content from devotionals belong to their respective owners and Alpha International.
 
 ## NOTE
-Apparently the Google Keep API that I currently use for storage has Enterprise-only access. So instead this app will aim to create a copyable text file artifact that is generated daily via GithubAction workflow. 
+Apparently the Google Keep API is for Enterprise access only. So instead this app will aim to create a copyable text file artifact that is generated daily via GithubAction workflow. 
 
 ## How to Run Locally
 1) ``` npm run build ```
