@@ -1,0 +1,41 @@
+name: Generate Daily Devos Template
+
+on: 
+  schedule: 
+    - cron: '0 10 * * *' # Every day at 10:00 AM UTC or approximately 3:00 AM PT (depending on daylight saving time)
+  workflow_dispatch: # For testing purposes
+    
+permissions: 
+  contents: read 
+
+jobs: 
+  generate-devos-template:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14.x' 
+
+      - name: Generate Devos Template
+        run: |
+          npm run build
+          npm run start
+
+      - name: Get current date in PDT
+        id: pdt_date
+        run: echo "PDT_DATE=$(TZ=America/Los_Angeles date '+%Y-%m-%d')" >> $GITHUB_ENV
+
+      - name: Cache the file - to be used in deployment workflow
+        uses: actions/upload-artifact@v4
+        with: 
+           name: $PDT_DATE
+           path: output.txt
+           if-no-files-found: error
+           retention-days: 2
+           overwrite: false
+           include-hidden-files: false
+
