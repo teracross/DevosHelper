@@ -36,7 +36,7 @@ jobs:
            name: ${{ steps.pdt_date.outputs.PDT_DATE }}
            path: ./output.txt
            if-no-files-found: error
-           retention-days: 2
+           retention-days: 7
            overwrite: false
            include-hidden-files: false
 
