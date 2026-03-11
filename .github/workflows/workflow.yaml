@@ -13,10 +13,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v6
 
       - name: Set up Node.js
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v6
 
       - name: Install dependencies
         run: npm install  
@@ -31,7 +31,7 @@ jobs:
         run: echo "PDT_DATE=$(TZ=America/Los_Angeles date '+%Y-%m-%d')" >> $GITHUB_OUTPUT
 
       - name: Cache the file - to be used in deployment workflow
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v6
         with: 
            name: ${{ steps.pdt_date.outputs.PDT_DATE }}
            path: ./output.txt
