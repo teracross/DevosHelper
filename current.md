@@ -1,22 +1,22 @@
-date: 3/30/2026
+date: 3/31/2026
 body:
-https://bible.alpha.org/en/classic/89/index.html - A Hundredfold Return
+https://bible.alpha.org/en/classic/90/index.html - How to Overcome Your Fears
 -
 
 
-Psalm 38:13–22
+Psalm 39:1–13
 
 ---- Devos ----
 -
 
 
-Luke 8:1–18
+Luke 8:19–39
 
 ---- Devos ----
 -
 
 
-Numbers 27:12–29:11
+Numbers 29:12–31:24
 
 ---- Devos ----
 -
