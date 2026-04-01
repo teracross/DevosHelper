@@ -30,6 +30,7 @@ THREE_AM_TS=$(date -d 'today 03:00' +%s)
 if [ "$NOW_TS" -lt "$THREE_AM_TS" ]; then
   # It's not yet 03:00 today — allow more time
   echo "No edits made, there is still time before the deadline. Keep working at it!"
+  code "$FILE_PATH"
   exit 0
 fi
 
