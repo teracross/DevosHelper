@@ -23,6 +23,23 @@ if [ ! -f "$FILE_PATH" ]; then
   exit 1
 fi
 
+# Determine whether system time has passed 03:00 today
+NOW_TS=$(date +%s)
+THREE_AM_TS=$(date -d 'today 03:00' +%s)
+
+if [ "$NOW_TS" -lt "$THREE_AM_TS" ]; then
+  # It's not yet 03:00 today — allow more time
+  echo "No edits made, there is still time before the deadline. Keep working at it!"
+  exit 0
+fi
+
+# It's past 03:00 today — check filesystem modification time (mtime) of the file
+FILE_MTIME=$(stat -c %Y -- "$FILE_PATH")
+if [ "$FILE_MTIME" -gt "$THREE_AM_TS" ]; then
+  echo "No edits made, current day progress detected."
+  exit 0
+fi
+
 # Backup
 cp -- "$FILE_PATH" "$BACKUP_PATH"
 
@@ -38,7 +55,7 @@ if git show "$REMOTE/$BRANCH:$FILE" > "$FILE_PATH".new 2>/dev/null; then
 
   # Try to open the updated file in VS Code if the `code` CLI is available
   if command -v code >/dev/null 2>&1; then
-    code "$FILE_PATH" >/dev/null 2>&1 &
+    code "$FILE_PATH" &
     echo "Opened $FILE in VS Code."
   else
     echo "VS Code CLI 'code' not found; skipping open."
