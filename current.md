@@ -1,22 +1,22 @@
-date: 4/1/2026
+date: 4/2/2026
 body:
-https://bible.alpha.org/en/classic/91/index.html - Follow Jesus
+https://bible.alpha.org/en/classic/92/index.html - It is All Yours
 -
 
 
-Psalm 40:1–8
+Proverbs 8:22–31
 
 ---- Devos ----
 -
 
 
-Luke 8:40–9:9
+Luke 9:10–27
 
 ---- Devos ----
 -
 
 
-Numbers 31:25–32:42
+Numbers 33:1–34:29
 
 ---- Devos ----
 -
