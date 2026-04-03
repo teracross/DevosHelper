@@ -38,6 +38,7 @@ fi
 FILE_MTIME=$(stat -c %Y -- "$FILE_PATH")
 if [ "$FILE_MTIME" -gt "$THREE_AM_TS" ]; then
   echo "No edits made, current day progress detected."
+  code "$FILE_PATH"
   exit 0
 fi
 
