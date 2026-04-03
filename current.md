@@ -1,22 +1,22 @@
-date: 4/2/2026
+date: 4/3/2026
 body:
-https://bible.alpha.org/en/classic/92/index.html - It is All Yours
+https://bible.alpha.org/en/classic/93/index.html - How to Love
 -
 
 
-Proverbs 8:22–31
+Psalm 40:9–17
 
 ---- Devos ----
 -
 
 
-Luke 9:10–27
+Luke 9:28–56
 
 ---- Devos ----
 -
 
 
-Numbers 33:1–34:29
+Numbers 35:1–36:13
 
 ---- Devos ----
 -
