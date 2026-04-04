@@ -1,22 +1,22 @@
-date: 4/3/2026
+date: 4/4/2026
 body:
-https://bible.alpha.org/en/classic/93/index.html - How to Love
+https://bible.alpha.org/en/classic/94/index.html - No Blessing Goes Uncontested
 -
 
 
-Psalm 40:9–17
+Psalm 41:1–6
 
 ---- Devos ----
 -
 
 
-Luke 9:28–56
+Luke 9:57–10:24
 
 ---- Devos ----
 -
 
 
-Numbers 35:1–36:13
+Deuteronomy 1:1–2:23
 
 ---- Devos ----
 -
