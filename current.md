@@ -1,22 +1,22 @@
-date: 4/4/2026
+date: 4/5/2026
 body:
-https://bible.alpha.org/en/classic/94/index.html - No Blessing Goes Uncontested
+https://bible.alpha.org/en/classic/95/index.html - One Thing is Needed
 -
 
 
-Psalm 41:1–6
+Psalm 41:7–13
 
 ---- Devos ----
 -
 
 
-Luke 9:57–10:24
+Luke 10:25–11:4
 
 ---- Devos ----
 -
 
 
-Deuteronomy 1:1–2:23
+Deuteronomy 2:24–4:14
 
 ---- Devos ----
 -
