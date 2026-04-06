@@ -1,22 +1,22 @@
-date: 4/5/2026
+date: 4/6/2026
 body:
-https://bible.alpha.org/en/classic/95/index.html - One Thing is Needed
+https://bible.alpha.org/en/classic/96/index.html - Press Through
 -
 
 
-Psalm 41:7–13
+Proverbs 8:32–36
 
 ---- Devos ----
 -
 
 
-Luke 10:25–11:4
+Luke 11:5–32
 
 ---- Devos ----
 -
 
 
-Deuteronomy 2:24–4:14
+Deuteronomy 4:15–5:33
 
 ---- Devos ----
 -
