@@ -1,22 +1,22 @@
-date: 4/6/2026
+date: 4/7/2026
 body:
-https://bible.alpha.org/en/classic/96/index.html - Press Through
+https://bible.alpha.org/en/classic/97/index.html - Love from the Inside Out
 -
 
 
-Proverbs 8:32–36
+Psalm 42:1–5
 
 ---- Devos ----
 -
 
 
-Luke 11:5–32
+Luke 11:33–54
 
 ---- Devos ----
 -
 
 
-Deuteronomy 4:15–5:33
+Deuteronomy 6:1–8:20
 
 ---- Devos ----
 -
