@@ -1,22 +1,22 @@
-date: 4/8/2026
+date: 4/9/2026
 body:
-https://bible.alpha.org/en/classic/98/index.html - How to Stop Worrying
+https://bible.alpha.org/en/classic/99/index.html - See His Goodness
 -
 
 
-Psalm 42:6–11
+Psalm 43:1–5
 
 ---- Devos ----
 -
 
 
-Luke 12:1–34
+Luke 12:35–59
 
 ---- Devos ----
 -
 
 
-Deuteronomy 9:1–10:22
+Deuteronomy 11:1–12:32
 
 ---- Devos ----
 -
