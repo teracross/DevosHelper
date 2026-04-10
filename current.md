@@ -1,22 +1,22 @@
-date: 4/9/2026
+date: 4/10/2026
 body:
-https://bible.alpha.org/en/classic/99/index.html - See His Goodness
+https://bible.alpha.org/en/classic/100/index.html - Seven Ways to Grow in Wisdom
 -
 
 
-Psalm 43:1–5
+Proverbs 9:1–12
 
 ---- Devos ----
 -
 
 
-Luke 12:35–59
+Luke 13:1–30
 
 ---- Devos ----
 -
 
 
-Deuteronomy 11:1–12:32
+Deuteronomy 13:1–14:29
 
 ---- Devos ----
 -
