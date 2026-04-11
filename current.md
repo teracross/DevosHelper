@@ -1,22 +1,22 @@
-date: 4/10/2026
+date: 4/11/2026
 body:
-https://bible.alpha.org/en/classic/100/index.html - Seven Ways to Grow in Wisdom
+https://bible.alpha.org/en/classic/101/index.html - Eight Things That Really Matter to God
 -
 
 
-Proverbs 9:1–12
+Psalm 44:1–12
 
 ---- Devos ----
 -
 
 
-Luke 13:1–30
+Luke 13:31–14:14
 
 ---- Devos ----
 -
 
 
-Deuteronomy 13:1–14:29
+Deuteronomy 15:1–16:20
 
 ---- Devos ----
 -
