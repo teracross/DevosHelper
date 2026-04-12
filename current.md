@@ -1,22 +1,22 @@
-date: 4/11/2026
+date: 4/12/2026
 body:
-https://bible.alpha.org/en/classic/101/index.html - Eight Things That Really Matter to God
+https://bible.alpha.org/en/classic/102/index.html - Your Invitation
 -
 
 
-Psalm 44:1–12
+Psalm 44:13–26
 
 ---- Devos ----
 -
 
 
-Luke 13:31–14:14
+Luke 14:15–35
 
 ---- Devos ----
 -
 
 
-Deuteronomy 15:1–16:20
+Deuteronomy 16:21–18:22
 
 ---- Devos ----
 -
