@@ -1,22 +1,22 @@
-date: 4/12/2026
+date: 4/13/2026
 body:
-https://bible.alpha.org/en/classic/102/index.html - Your Invitation
+https://bible.alpha.org/en/classic/103/index.html - What is God Like?
 -
 
 
-Psalm 44:13–26
+Psalm 45:1–9
 
 ---- Devos ----
 -
 
 
-Luke 14:15–35
+Luke 15:1–32
 
 ---- Devos ----
 -
 
 
-Deuteronomy 16:21–18:22
+Deuteronomy 19:1–20:20
 
 ---- Devos ----
 -
