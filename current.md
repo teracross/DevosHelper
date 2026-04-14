@@ -1,22 +1,22 @@
-date: 4/13/2026
+date: 4/14/2026
 body:
-https://bible.alpha.org/en/classic/103/index.html - What is God Like?
+https://bible.alpha.org/en/classic/104/index.html - How to Avoid the Titanic Mistake
 -
 
 
-Psalm 45:1–9
+Proverbs 9:13–18
 
 ---- Devos ----
 -
 
 
-Luke 15:1–32
+Luke 16:1–18
 
 ---- Devos ----
 -
 
 
-Deuteronomy 19:1–20:20
+Deuteronomy 21:1–22:30
 
 ---- Devos ----
 -
