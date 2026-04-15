@@ -1,22 +1,22 @@
-date: 4/14/2026
+date: 4/15/2026
 body:
-https://bible.alpha.org/en/classic/104/index.html - How to Avoid the Titanic Mistake
+https://bible.alpha.org/en/classic/105/index.html - Choose What You Remember
 -
 
 
-Proverbs 9:13–18
+Psalm 45:10–17
 
 ---- Devos ----
 -
 
 
-Luke 16:1–18
+Luke 16:19–17:10
 
 ---- Devos ----
 -
 
 
-Deuteronomy 21:1–22:30
+Deuteronomy 23:1–25:19
 
 ---- Devos ----
 -
