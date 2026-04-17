@@ -1,22 +1,22 @@
-date: 4/16/2026
+date: 4/17/2026
 body:
-https://bible.alpha.org/en/classic/106/index.html - His Presence
+https://bible.alpha.org/en/classic/107/index.html - Six Steps to a God-Centred Life
 -
 
 
-Psalm 46:1–11
+Psalm 47:1–9
 
 ---- Devos ----
 -
 
 
-Luke 17:11–37
+Luke 18:1–30
 
 ---- Devos ----
 -
 
 
-Deuteronomy 26:1–28:14
+Deuteronomy 28:15–68
 
 ---- Devos ----
 -
