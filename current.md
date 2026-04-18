@@ -1,22 +1,22 @@
-date: 4/17/2026
+date: 4/18/2026
 body:
-https://bible.alpha.org/en/classic/107/index.html - Six Steps to a God-Centred Life
+https://bible.alpha.org/en/classic/108/index.html - It's Never Too Late
 -
 
 
-Psalm 47:1–9
+Proverbs 10:1–10
 
 ---- Devos ----
 -
 
 
-Luke 18:1–30
+Luke 18:31–19:10
 
 ---- Devos ----
 -
 
 
-Deuteronomy 28:15–68
+Deuteronomy 29:1–30:10
 
 ---- Devos ----
 -
