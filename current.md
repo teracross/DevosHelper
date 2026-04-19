@@ -1,22 +1,22 @@
-date: 4/18/2026
+date: 4/19/2026
 body:
-https://bible.alpha.org/en/classic/108/index.html - It's Never Too Late
+https://bible.alpha.org/en/classic/109/index.html - God's Strategic Plan
 -
 
 
-Proverbs 10:1–10
+Psalm 48:1–8
 
 ---- Devos ----
 -
 
 
-Luke 18:31–19:10
+Luke 19:11–44
 
 ---- Devos ----
 -
 
 
-Deuteronomy 29:1–30:10
+Deuteronomy 30:11–31:29
 
 ---- Devos ----
 -
