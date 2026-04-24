@@ -1,22 +1,22 @@
-date: 4/23/2026
+date: 4/24/2026
 body:
-https://bible.alpha.org/en/classic/113/index.html - The Gracious Hand of God
+https://bible.alpha.org/en/classic/114/index.html - Two Ways to Live
 -
 
 
-Psalm 50:1–15
+Psalm 50:16–23
 
 ---- Devos ----
 -
 
 
-Luke 22:1–38
+Luke 22:39–62
 
 ---- Devos ----
 -
 
 
-Joshua 3:1–5:12
+Joshua 5:13–7:26
 
 ---- Devos ----
 -
