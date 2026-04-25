@@ -1,22 +1,22 @@
-date: 4/24/2026
+date: 4/25/2026
 body:
-https://bible.alpha.org/en/classic/114/index.html - Two Ways to Live
+https://bible.alpha.org/en/classic/115/index.html - Your Loving Substitute
 -
 
 
-Psalm 50:16–23
+Psalm 51:1–9
 
 ---- Devos ----
 -
 
 
-Luke 22:39–62
+Luke 22:63–23:25
 
 ---- Devos ----
 -
 
 
-Joshua 5:13–7:26
+Joshua 8:1–9:15
 
 ---- Devos ----
 -
