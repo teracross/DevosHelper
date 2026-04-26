@@ -1,22 +1,22 @@
-date: 4/25/2026
+date: 4/26/2026
 body:
-https://bible.alpha.org/en/classic/115/index.html - Your Loving Substitute
+https://bible.alpha.org/en/classic/116/index.html - Right Relationships
 -
 
 
-Psalm 51:1–9
+Proverbs 10:21–30
 
 ---- Devos ----
 -
 
 
-Luke 22:63–23:25
+Luke 23:26–56
 
 ---- Devos ----
 -
 
 
-Joshua 8:1–9:15
+Joshua 9:16–10:43
 
 ---- Devos ----
 -
