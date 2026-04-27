@@ -1,22 +1,22 @@
-date: 4/26/2026
+date: 4/27/2026
 body:
-https://bible.alpha.org/en/classic/116/index.html - Right Relationships
+https://bible.alpha.org/en/classic/117/index.html - How to Live a Life of Victory
 -
 
 
-Proverbs 10:21–30
+Psalm 51:10–19
 
 ---- Devos ----
 -
 
 
-Luke 23:26–56
+Luke 24:1–35
 
 ---- Devos ----
 -
 
 
-Joshua 9:16–10:43
+Joshua 11:1–12:24
 
 ---- Devos ----
 -
