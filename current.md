@@ -1,22 +1,22 @@
-date: 4/27/2026
+date: 4/28/2026
 body:
-https://bible.alpha.org/en/classic/117/index.html - How to Live a Life of Victory
+https://bible.alpha.org/en/classic/118/index.html - It's Not Over
 -
 
 
-Psalm 51:10–19
+Psalm 52:1–9
 
 ---- Devos ----
 -
 
 
-Luke 24:1–35
+Luke 24:36–53
 
 ---- Devos ----
 -
 
 
-Joshua 11:1–12:24
+Joshua 13:1–14:15
 
 ---- Devos ----
 -
