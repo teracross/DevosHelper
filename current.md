@@ -1,22 +1,22 @@
-date: 4/28/2026
+date: 4/29/2026
 body:
-https://bible.alpha.org/en/classic/118/index.html - It's Not Over
+https://bible.alpha.org/en/classic/119/index.html - The Battle Today Is Around Jesus
 -
 
 
-Psalm 52:1–9
+Psalm 53:1–6
 
 ---- Devos ----
 -
 
 
-Luke 24:36–53
+John 1:1–28
 
 ---- Devos ----
 -
 
 
-Joshua 13:1–14:15
+Joshua 15:1–16:10
 
 ---- Devos ----
 -
