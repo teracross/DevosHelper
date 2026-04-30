@@ -1,22 +1,22 @@
-date: 4/29/2026
+date: 4/30/2026
 body:
-https://bible.alpha.org/en/classic/119/index.html - The Battle Today Is Around Jesus
+https://bible.alpha.org/en/classic/120/index.html - It's Already Yours
 -
 
 
-Psalm 53:1–6
+Proverbs 10:31–11:8
 
 ---- Devos ----
 -
 
 
-John 1:1–28
+John 1:29–51
 
 ---- Devos ----
 -
 
 
-Joshua 15:1–16:10
+Joshua 17:1–18:28
 
 ---- Devos ----
 -
