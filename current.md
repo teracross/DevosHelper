@@ -1,22 +1,22 @@
-date: 4/30/2026
+date: 5/1/2026
 body:
-https://bible.alpha.org/en/classic/120/index.html - It's Already Yours
+https://bible.alpha.org/en/classic/121/index.html - God Wants to Surprise You
 -
 
 
-Proverbs 10:31–11:8
+Psalm 54:1–7
 
 ---- Devos ----
 -
 
 
-John 1:29–51
+John 2:1–25
 
 ---- Devos ----
 -
 
 
-Joshua 17:1–18:28
+Joshua 19:1–21:19
 
 ---- Devos ----
 -
