@@ -1,22 +1,22 @@
-date: 5/1/2026
+date: 5/2/2026
 body:
-https://bible.alpha.org/en/classic/121/index.html - God Wants to Surprise You
+https://bible.alpha.org/en/classic/122/index.html - How to Handle Confrontation
 -
 
 
-Psalm 54:1–7
+Psalm 55:1–11
 
 ---- Devos ----
 -
 
 
-John 2:1–25
+John 3:1–21
 
 ---- Devos ----
 -
 
 
-Joshua 19:1–21:19
+Joshua 21:20–22:34
 
 ---- Devos ----
 -
