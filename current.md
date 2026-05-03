@@ -1,22 +1,22 @@
-date: 5/2/2026
+date: 5/3/2026
 body:
-https://bible.alpha.org/en/classic/122/index.html - How to Handle Confrontation
+https://bible.alpha.org/en/classic/123/index.html - How to Make Good Choices
 -
 
 
-Psalm 55:1–11
+Psalm 55:12–23
 
 ---- Devos ----
 -
 
 
-John 3:1–21
+John 3:22–36
 
 ---- Devos ----
 -
 
 
-Joshua 21:20–22:34
+Joshua 23:1–24:33
 
 ---- Devos ----
 -
