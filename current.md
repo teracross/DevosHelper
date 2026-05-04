@@ -1,22 +1,22 @@
-date: 5/3/2026
+date: 5/4/2026
 body:
-https://bible.alpha.org/en/classic/123/index.html - How to Make Good Choices
+https://bible.alpha.org/en/classic/124/index.html - Three Ways to Transform Your World
 -
 
 
-Psalm 55:12–23
+Proverbs 11:9–18
 
 ---- Devos ----
 -
 
 
-John 3:22–36
+John 4:1–26
 
 ---- Devos ----
 -
 
 
-Joshua 23:1–24:33
+Judges 1:1–2:5
 
 ---- Devos ----
 -
