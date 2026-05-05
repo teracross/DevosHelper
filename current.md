@@ -1,22 +1,22 @@
-date: 5/4/2026
+date: 5/5/2026
 body:
-https://bible.alpha.org/en/classic/124/index.html - Three Ways to Transform Your World
+https://bible.alpha.org/en/classic/125/index.html - Jesus Always Delivers
 -
 
 
-Proverbs 11:9–18
+Psalm 56:1–13
 
 ---- Devos ----
 -
 
 
-John 4:1–26
+John 4:27–42
 
 ---- Devos ----
 -
 
 
-Judges 1:1–2:5
+Judges 2:6–3:31
 
 ---- Devos ----
 -
