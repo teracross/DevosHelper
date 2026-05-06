@@ -1,22 +1,22 @@
-date: 5/5/2026
+date: 5/6/2026
 body:
-https://bible.alpha.org/en/classic/125/index.html - Jesus Always Delivers
+https://bible.alpha.org/en/classic/126/index.html - Pray God-Sized Prayers
 -
 
 
-Psalm 56:1–13
+Psalm 57:1–6
 
 ---- Devos ----
 -
 
 
-John 4:27–42
+John 4:43–5:15
 
 ---- Devos ----
 -
 
 
-Judges 2:6–3:31
+Judges 4:1–5:31
 
 ---- Devos ----
 -
