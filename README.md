@@ -14,7 +14,7 @@ Apparently the Google Keep API is for Enterprise access only. So instead this ap
 Utilizing the [scripts/automation.sh](./scripts/automation.sh) bash script can sync latest devotional entry template [current.md](./current.md) from the GitHub repo and open it in VSCode. 
 
 Example - Running this command in VSCode through WSL on Windows system (): 
-```C:\Windows\System32\cmd.exe /k "wsl -d Ubuntu -- bash -lxc '/DevosHelper/scripts/automation.sh'"```
+```C:\Windows\System32\cmd.exe /k "wsl --shutdown & wsl -d Ubuntu -- bash -ic 'cd ~/DevosHelper; ./scripts/automation.sh; echo done'"```
 
 ## TODOs
 - [x] create application to parse and organize data
