@@ -1,22 +1,22 @@
-date: 5/6/2026
+date: 5/7/2026
 body:
-https://bible.alpha.org/en/classic/126/index.html - Pray God-Sized Prayers
+https://bible.alpha.org/en/classic/127/index.html - Twelve Ways to Be Useful to God
 -
 
 
-Psalm 57:1–6
+Psalm 57:7–11
 
 ---- Devos ----
 -
 
 
-John 4:43–5:15
+John 5:16–30
 
 ---- Devos ----
 -
 
 
-Judges 4:1–5:31
+Judges 6:1–7:8a
 
 ---- Devos ----
 -
