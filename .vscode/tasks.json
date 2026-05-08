@@ -1,0 +1,32 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Open Integrated Browser",
+            "type": "shell",
+            "command": "${command:workbench.action.browser.open}",
+            "args": [
+                "https://example.com/"
+            ]
+        },
+        {
+            "label": "Open Project File",
+            "type": "shell",
+            "command": "code",
+            "args": [
+                "${workspaceFolder}/current.md"
+            ] // Path to your file
+        },
+        {
+            "label": "Startup Automation",
+            "dependsOn": [
+                "Open Project File",
+                "Open Integrated Browser"
+            ],
+            "dependsOrder": "sequence",
+            "runOptions": {
+                "runOn": "folderOpen"
+            }
+        }
+    ]
+}
