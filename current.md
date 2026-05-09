@@ -1,22 +1,22 @@
-date: 5/8/2026
+date: 5/9/2026
 body:
-https://bible.alpha.org/en/classic/128/index.html - How to Live in High Definition
+https://bible.alpha.org/en/classic/129/index.html - How to Reap Far More Than You Sow
 -
 
 
-Proverbs 11:19–28
+Psalm 58:1–11
 
 ---- Devos ----
 -
 
 
-John 5:31–47
+John 6:1–24
 
 ---- Devos ----
 -
 
 
-Judges 7:8b–8:35
+Judges 9:1–57
 
 ---- Devos ----
 -
