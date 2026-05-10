@@ -1,22 +1,22 @@
-date: 5/9/2026
+date: 5/10/2026
 body:
-https://bible.alpha.org/en/classic/129/index.html - How to Reap Far More Than You Sow
+https://bible.alpha.org/en/classic/130/index.html - God Turns Your Weakness into Strength
 -
 
 
-Psalm 58:1–11
+Psalm 59:1–8
 
 ---- Devos ----
 -
 
 
-John 6:1–24
+John 6:25–59
 
 ---- Devos ----
 -
 
 
-Judges 9:1–57
+Judges 10:1–11:40
 
 ---- Devos ----
 -
