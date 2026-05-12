@@ -1,22 +1,22 @@
-date: 5/11/2026
+date: 5/12/2026
 body:
-https://bible.alpha.org/en/classic/131/index.html - Endless Energy, Boundless Strength
+https://bible.alpha.org/en/classic/132/index.html - The Wonderful Holy Spirit
 -
 
 
-Psalm 59:9–17
+Proverbs 11:29–12:7
 
 ---- Devos ----
 -
 
 
-John 6:60–7:13
+John 7:14–44
 
 ---- Devos ----
 -
 
 
-Judges 12:1–13:25
+Judges 14:1–15:20
 
 ---- Devos ----
 -
