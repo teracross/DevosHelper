@@ -1,22 +1,22 @@
-date: 5/13/2026
+date: 5/14/2026
 body:
-https://bible.alpha.org/en/classic/133/index.html - How to Deal with Desperate Times
+https://bible.alpha.org/en/classic/134/index.html - It's Possible with God
 -
 
 
-Psalm 60:1–4
+Psalm 60:5–12
 
 ---- Devos ----
 -
 
 
-John 7:45–8:11
+John 8:12–30
 
 ---- Devos ----
 -
 
 
-Judges 16:1–17:13
+Judges 18:1–19:30
 
 ---- Devos ----
 -
