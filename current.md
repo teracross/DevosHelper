@@ -1,22 +1,22 @@
-date: 5/14/2026
+date: 5/15/2026
 body:
-https://bible.alpha.org/en/classic/134/index.html - It's Possible with God
+https://bible.alpha.org/en/classic/135/index.html - All He Wants Is You
 -
 
 
-Psalm 60:5–12
+Psalm 61:1–8
 
 ---- Devos ----
 -
 
 
-John 8:12–30
+John 8:31–59
 
 ---- Devos ----
 -
 
 
-Judges 18:1–19:30
+Judges 20:1–21:25
 
 ---- Devos ----
 -
