@@ -1,22 +1,22 @@
-date: 5/15/2026
+date: 5/16/2026
 body:
-https://bible.alpha.org/en/classic/135/index.html - All He Wants Is You
+https://bible.alpha.org/en/classic/136/index.html - Your Story Has Power
 -
 
 
-Psalm 61:1–8
+Proverbs 12:8–17
 
 ---- Devos ----
 -
 
 
-John 8:31–59
+John 9:1–34
 
 ---- Devos ----
 -
 
 
-Judges 20:1–21:25
+Ruth 1:1–2:23
 
 ---- Devos ----
 -
