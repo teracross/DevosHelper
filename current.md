@@ -1,22 +1,22 @@
-date: 5/16/2026
+date: 5/17/2026
 body:
-https://bible.alpha.org/en/classic/136/index.html - Your Story Has Power
+https://bible.alpha.org/en/classic/137/index.html - Knowing God as a Father
 -
 
 
-Proverbs 12:8–17
+Psalm 62:1–12
 
 ---- Devos ----
 -
 
 
-John 9:1–34
+John 9:35–10:21
 
 ---- Devos ----
 -
 
 
-Ruth 1:1–2:23
+Ruth 3:1–4:22
 
 ---- Devos ----
 -
