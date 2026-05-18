@@ -1,22 +1,22 @@
-date: 5/17/2026
+date: 5/18/2026
 body:
-https://bible.alpha.org/en/classic/137/index.html - Knowing God as a Father
+https://bible.alpha.org/en/classic/138/index.html - How to Satisfy Your Soul
 -
 
 
-Psalm 62:1–12
+Psalm 63:1–11
 
 ---- Devos ----
 -
 
 
-John 9:35–10:21
+John 10:22–42
 
 ---- Devos ----
 -
 
 
-Ruth 3:1–4:22
+1 Samuel 1:1–2:26
 
 ---- Devos ----
 -
