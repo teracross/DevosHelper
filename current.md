@@ -1,22 +1,22 @@
-date: 5/21/2026
+date: 5/22/2026
 body:
-https://bible.alpha.org/en/classic/141/index.html - Good Government?
+https://bible.alpha.org/en/classic/142/index.html - Take Time to Celebrate
 -
 
 
-Psalm 65:1–13
+Psalm 66:1–12
 
 ---- Devos ----
 -
 
 
-John 12:12–36
+John 12:37–13:17
 
 ---- Devos ----
 -
 
 
-1 Samuel 8:1–10:8
+1 Samuel 10:9–12:25
 
 ---- Devos ----
 -
