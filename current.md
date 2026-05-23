@@ -1,22 +1,22 @@
-date: 5/22/2026
+date: 5/23/2026
 body:
-https://bible.alpha.org/en/classic/142/index.html - Take Time to Celebrate
+https://bible.alpha.org/en/classic/143/index.html - The Love of Your Life
 -
 
 
-Psalm 66:1–12
+Psalm 66:13–20
 
 ---- Devos ----
 -
 
 
-John 12:37–13:17
+John 13:18–38
 
 ---- Devos ----
 -
 
 
-1 Samuel 10:9–12:25
+1 Samuel 13:1–14:23
 
 ---- Devos ----
 -
