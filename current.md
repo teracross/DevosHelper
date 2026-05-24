@@ -1,22 +1,22 @@
-date: 5/23/2026
+date: 5/24/2026
 body:
-https://bible.alpha.org/en/classic/143/index.html - The Love of Your Life
+https://bible.alpha.org/en/classic/144/index.html - How to Finish Well
 -
 
 
-Psalm 66:13–20
+Proverbs 12:28–13:9
 
 ---- Devos ----
 -
 
 
-John 13:18–38
+John 14:1–31
 
 ---- Devos ----
 -
 
 
-1 Samuel 13:1–14:23
+1 Samuel 14:24–15:35
 
 ---- Devos ----
 -
