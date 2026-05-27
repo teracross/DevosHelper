@@ -1,22 +1,22 @@
-date: 5/26/2026
+date: 5/27/2026
 body:
-https://bible.alpha.org/en/classic/146/index.html - His Name Has Power
+https://bible.alpha.org/en/classic/147/index.html - The Power of Unity
 -
 
 
-Psalm 68:1–6
+Psalm 68:7–14
 
 ---- Devos ----
 -
 
 
-John 16:5–17:5
+John 17:6–26
 
 ---- Devos ----
 -
 
 
-1 Samuel 17:38–18:30
+1 Samuel 19:1–20:42
 
 ---- Devos ----
 -
