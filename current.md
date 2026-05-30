@@ -1,22 +1,22 @@
-date: 5/29/2026
+date: 5/30/2026
 body:
-https://bible.alpha.org/en/classic/149/index.html - Five Burdens You Need Not Carry
+https://bible.alpha.org/en/classic/150/index.html - Your Trial Will Become Your Triumph
 -
 
 
-Psalm 68:15–20
+Psalm 68:21–27
 
 ---- Devos ----
 -
 
 
-John 18:25–40
+John 19:1–27
 
 ---- Devos ----
 -
 
 
-1 Samuel 24:1–25:44
+1 Samuel 26:1–28:25
 
 ---- Devos ----
 -
