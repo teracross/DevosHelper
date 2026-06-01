@@ -1,22 +1,22 @@
-date: 5/31/2026
+date: 6/1/2026
 body:
-https://bible.alpha.org/en/classic/151/index.html - You Have the Energy of God
+https://bible.alpha.org/en/classic/152/index.html - Wow!
 -
 
 
-Psalm 68:28–35
+Proverbs 13:20–14:4
 
 ---- Devos ----
 -
 
 
-John 19:28–20:10
+John 20:11–31
 
 ---- Devos ----
 -
 
 
-1 Samuel 29:1–31:13
+2 Samuel 1:1–2:7
 
 ---- Devos ----
 -
