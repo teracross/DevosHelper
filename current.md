@@ -1,22 +1,22 @@
-date: 6/1/2026
+date: 6/2/2026
 body:
-https://bible.alpha.org/en/classic/152/index.html - Wow!
+https://bible.alpha.org/en/classic/153/index.html - 'Crazy Love'
 -
 
 
-Proverbs 13:20–14:4
+Psalm 69:1–12
 
 ---- Devos ----
 -
 
 
-John 20:11–31
+John 21:1–25
 
 ---- Devos ----
 -
 
 
-2 Samuel 1:1–2:7
+2 Samuel 2:8–3:21
 
 ---- Devos ----
 -
