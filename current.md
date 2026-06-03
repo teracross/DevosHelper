@@ -1,22 +1,22 @@
-date: 6/2/2026
+date: 6/3/2026
 body:
-https://bible.alpha.org/en/classic/153/index.html - 'Crazy Love'
+https://bible.alpha.org/en/classic/154/index.html - Even Your Weakness is Anointed
 -
 
 
-Psalm 69:1–12
+Psalm 69:13–28
 
 ---- Devos ----
 -
 
 
-John 21:1–25
+Acts 1:1–22
 
 ---- Devos ----
 -
 
 
-2 Samuel 2:8–3:21
+2 Samuel 3:22–5:5
 
 ---- Devos ----
 -
