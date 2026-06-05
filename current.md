@@ -1,22 +1,22 @@
-date: 6/4/2026
+date: 6/5/2026
 body:
-https://bible.alpha.org/en/classic/155/index.html - Sounds of Heaven
+https://bible.alpha.org/en/classic/156/index.html - He Gives You Power
 -
 
 
-Psalm 69:29–36
+Proverbs 14:5–14
 
 ---- Devos ----
 -
 
 
-Acts 1:23–2:21
+Acts 2:22–47
 
 ---- Devos ----
 -
 
 
-2 Samuel 5:6–6:23
+2 Samuel 7:1–8:18
 
 ---- Devos ----
 -
