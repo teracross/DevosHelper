@@ -1,22 +1,22 @@
-date: 6/5/2026
+date: 6/6/2026
 body:
-https://bible.alpha.org/en/classic/156/index.html - He Gives You Power
+https://bible.alpha.org/en/classic/157/index.html - Kindness
 -
 
 
-Proverbs 14:5–14
+Psalm 70:1–5
 
 ---- Devos ----
 -
 
 
-Acts 2:22–47
+Acts 3:1–26
 
 ---- Devos ----
 -
 
 
-2 Samuel 7:1–8:18
+2 Samuel 9:1–10:19
 
 ---- Devos ----
 -
