@@ -1,22 +1,22 @@
-date: 6/6/2026
+date: 6/7/2026
 body:
-https://bible.alpha.org/en/classic/157/index.html - Kindness
+https://bible.alpha.org/en/classic/158/index.html - Trials and Temptations
 -
 
 
-Psalm 70:1–5
+Psalm 71:1–8
 
 ---- Devos ----
 -
 
 
-Acts 3:1–26
+Acts 4:1–22
 
 ---- Devos ----
 -
 
 
-2 Samuel 9:1–10:19
+2 Samuel 11:1–12:31
 
 ---- Devos ----
 -
