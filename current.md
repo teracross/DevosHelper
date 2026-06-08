@@ -1,22 +1,22 @@
-date: 6/7/2026
+date: 6/8/2026
 body:
-https://bible.alpha.org/en/classic/158/index.html - Trials and Temptations
+https://bible.alpha.org/en/classic/159/index.html - No Shades of Grey
 -
 
 
-Psalm 71:1–8
+Psalm 71:9–18
 
 ---- Devos ----
 -
 
 
-Acts 4:1–22
+Acts 4:23–5:11
 
 ---- Devos ----
 -
 
 
-2 Samuel 11:1–12:31
+2 Samuel 13:1–39
 
 ---- Devos ----
 -
