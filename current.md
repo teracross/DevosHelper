@@ -1,22 +1,22 @@
-date: 6/9/2026
+date: 6/10/2026
 body:
-https://bible.alpha.org/en/classic/160/index.html - Stay Loyal
+https://bible.alpha.org/en/classic/161/index.html - Troubles Do Not Have the Last Word
 -
 
 
-Proverbs 14:15–24
+Psalm 71:19–24
 
 ---- Devos ----
 -
 
 
-Acts 5:12–42
+Acts 6:1–7:19
 
 ---- Devos ----
 -
 
 
-2 Samuel 14:1–15:12
+2 Samuel 15:13–16:14
 
 ---- Devos ----
 -
