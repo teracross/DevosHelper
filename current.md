@@ -1,22 +1,22 @@
-date: 6/11/2026
+date: 6/12/2026
 body:
-https://bible.alpha.org/en/classic/162/index.html - God Even Uses Your Mistakes
+https://bible.alpha.org/en/classic/163/index.html - You Can Change
 -
 
 
-Psalm 72:1–20
+Psalm 73:1–14
 
 ---- Devos ----
 -
 
 
-Acts 7:20–43
+Acts 7:44–8:3
 
 ---- Devos ----
 -
 
 
-2 Samuel 16:15–18:18
+2 Samuel 18:19–19:43
 
 ---- Devos ----
 -
