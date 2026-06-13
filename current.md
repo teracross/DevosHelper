@@ -1,22 +1,22 @@
-date: 6/12/2026
+date: 6/13/2026
 body:
-https://bible.alpha.org/en/classic/163/index.html - You Can Change
+https://bible.alpha.org/en/classic/164/index.html - Your Nation Can Be Changed
 -
 
 
-Psalm 73:1–14
+Proverbs 14:25–35
 
 ---- Devos ----
 -
 
 
-Acts 7:44–8:3
+Acts 8:4–40
 
 ---- Devos ----
 -
 
 
-2 Samuel 18:19–19:43
+2 Samuel 20:1–21:22
 
 ---- Devos ----
 -
