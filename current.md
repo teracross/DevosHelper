@@ -1,22 +1,22 @@
-date: 6/13/2026
+date: 6/14/2026
 body:
-https://bible.alpha.org/en/classic/164/index.html - Your Nation Can Be Changed
+https://bible.alpha.org/en/classic/165/index.html - A Spacious Place
 -
 
 
-Proverbs 14:25–35
+Psalm 73:15–28
 
 ---- Devos ----
 -
 
 
-Acts 8:4–40
+Acts 9:1–31
 
 ---- Devos ----
 -
 
 
-2 Samuel 20:1–21:22
+2 Samuel 22:1–23:7
 
 ---- Devos ----
 -
