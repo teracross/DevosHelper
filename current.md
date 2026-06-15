@@ -1,22 +1,22 @@
-date: 6/14/2026
+date: 6/15/2026
 body:
-https://bible.alpha.org/en/classic/165/index.html - A Spacious Place
+https://bible.alpha.org/en/classic/166/index.html - When You Don't Understand God
 -
 
 
-Psalm 73:15–28
+Psalm 74:1–9
 
 ---- Devos ----
 -
 
 
-Acts 9:1–31
+Acts 9:32–10:23a
 
 ---- Devos ----
 -
 
 
-2 Samuel 22:1–23:7
+2 Samuel 23:8–24:25
 
 ---- Devos ----
 -
