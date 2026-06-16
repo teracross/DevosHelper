@@ -1,22 +1,22 @@
-date: 6/15/2026
+date: 6/16/2026
 body:
-https://bible.alpha.org/en/classic/166/index.html - When You Don't Understand God
+https://bible.alpha.org/en/classic/167/index.html - Following and Not Opposing God
 -
 
 
-Psalm 74:1–9
+Psalm 74:10–17
 
 ---- Devos ----
 -
 
 
-Acts 9:32–10:23a
+Acts 10:23b–11:18
 
 ---- Devos ----
 -
 
 
-2 Samuel 23:8–24:25
+1 Kings 1–2:12
 
 ---- Devos ----
 -
