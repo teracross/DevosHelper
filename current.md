@@ -1,22 +1,22 @@
-date: 6/16/2026
+date: 6/17/2026
 body:
-https://bible.alpha.org/en/classic/167/index.html - Following and Not Opposing God
+https://bible.alpha.org/en/classic/168/index.html - Your Prayers Make a Difference
 -
 
 
-Psalm 74:10–17
+Proverbs 15:1–10
 
 ---- Devos ----
 -
 
 
-Acts 10:23b–11:18
+Acts 11:19–12:19a
 
 ---- Devos ----
 -
 
 
-1 Kings 1–2:12
+1 Kings 2:13–3:15
 
 ---- Devos ----
 -
