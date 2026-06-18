@@ -1,22 +1,22 @@
-date: 6/17/2026
+date: 6/18/2026
 body:
-https://bible.alpha.org/en/classic/168/index.html - Your Prayers Make a Difference
+https://bible.alpha.org/en/classic/169/index.html - Three Conversions Everyone Needs
 -
 
 
-Proverbs 15:1–10
+Psalm 74:18–23
 
 ---- Devos ----
 -
 
 
-Acts 11:19–12:19a
+Acts 12:19b–13:12
 
 ---- Devos ----
 -
 
 
-1 Kings 2:13–3:15
+1 Kings 3:16–5:18
 
 ---- Devos ----
 -
