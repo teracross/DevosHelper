@@ -1,22 +1,22 @@
-date: 6/18/2026
+date: 6/19/2026
 body:
-https://bible.alpha.org/en/classic/169/index.html - Three Conversions Everyone Needs
+https://bible.alpha.org/en/classic/170/index.html - How to Find Treasures in the Bible
 -
 
 
-Psalm 74:18–23
+Psalm 75:1–10
 
 ---- Devos ----
 -
 
 
-Acts 12:19b–13:12
+Acts 13:13–41
 
 ---- Devos ----
 -
 
 
-1 Kings 3:16–5:18
+1 Kings 6:1–7:22
 
 ---- Devos ----
 -
