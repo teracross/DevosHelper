@@ -1,22 +1,22 @@
-date: 6/19/2026
+date: 6/20/2026
 body:
-https://bible.alpha.org/en/classic/170/index.html - How to Find Treasures in the Bible
+https://bible.alpha.org/en/classic/171/index.html - Come, Holy Spirit
 -
 
 
-Psalm 75:1–10
+Psalm 76:1–12
 
 ---- Devos ----
 -
 
 
-Acts 13:13–41
+Acts 13:42–14:7
 
 ---- Devos ----
 -
 
 
-1 Kings 6:1–7:22
+1 Kings 7:23–8:21
 
 ---- Devos ----
 -
