@@ -1,22 +1,22 @@
-date: 6/20/2026
+date: 6/21/2026
 body:
-https://bible.alpha.org/en/classic/171/index.html - Come, Holy Spirit
+https://bible.alpha.org/en/classic/172/index.html - It's the Heart that Matters
 -
 
 
-Psalm 76:1–12
+Proverbs 15:11–20
 
 ---- Devos ----
 -
 
 
-Acts 13:42–14:7
+Acts 14:8–28
 
 ---- Devos ----
 -
 
 
-1 Kings 7:23–8:21
+1 Kings 8:22–9:9
 
 ---- Devos ----
 -
