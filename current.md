@@ -1,22 +1,22 @@
-date: 6/21/2026
+date: 6/22/2026
 body:
-https://bible.alpha.org/en/classic/172/index.html - It's the Heart that Matters
+https://bible.alpha.org/en/classic/173/index.html - When Life is Difficult
 -
 
 
-Proverbs 15:11–20
+Psalm 77:1–9
 
 ---- Devos ----
 -
 
 
-Acts 14:8–28
+Acts 15:1–21
 
 ---- Devos ----
 -
 
 
-1 Kings 8:22–9:9
+1 Kings 9:10–11:13
 
 ---- Devos ----
 -
