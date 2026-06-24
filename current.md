@@ -1,22 +1,22 @@
-date: 6/23/2026
+date: 6/24/2026
 body:
-https://bible.alpha.org/en/classic/174/index.html - Three Keys to Great Friendships
+https://bible.alpha.org/en/classic/175/index.html - Pass on the Baton
 -
 
 
-Psalm 77:10–20
+Psalm 78:1–8
 
 ---- Devos ----
 -
 
 
-Acts 15:22–41
+Acts 16:1–15
 
 ---- Devos ----
 -
 
 
-1 Kings 11:14–12:24
+1 Kings 12:25–14:20
 
 ---- Devos ----
 -
