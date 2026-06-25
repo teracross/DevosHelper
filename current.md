@@ -1,22 +1,22 @@
-date: 6/24/2026
+date: 6/25/2026
 body:
-https://bible.alpha.org/en/classic/175/index.html - Pass on the Baton
+https://bible.alpha.org/en/classic/176/index.html - The Power of Prayer
 -
 
 
-Psalm 78:1–8
+Proverbs 15:21–30
 
 ---- Devos ----
 -
 
 
-Acts 16:1–15
+Acts 16:16–40
 
 ---- Devos ----
 -
 
 
-1 Kings 12:25–14:20
+1 Kings 14:21–16:7
 
 ---- Devos ----
 -
