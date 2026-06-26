@@ -1,22 +1,22 @@
-date: 6/25/2026
+date: 6/26/2026
 body:
-https://bible.alpha.org/en/classic/176/index.html - The Power of Prayer
+https://bible.alpha.org/en/classic/177/index.html - Three Things God Wants to Give You
 -
 
 
-Proverbs 15:21–30
+Psalm 78:9–16
 
 ---- Devos ----
 -
 
 
-Acts 16:16–40
+Acts 17:1–21
 
 ---- Devos ----
 -
 
 
-1 Kings 14:21–16:7
+1 Kings 16:8–18:15
 
 ---- Devos ----
 -
