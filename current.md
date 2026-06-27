@@ -1,22 +1,22 @@
-date: 6/26/2026
+date: 6/27/2026
 body:
-https://bible.alpha.org/en/classic/177/index.html - Three Things God Wants to Give You
+https://bible.alpha.org/en/classic/178/index.html - The God of Miracles
 -
 
 
-Psalm 78:9–16
+Psalm 78:17–31
 
 ---- Devos ----
 -
 
 
-Acts 17:1–21
+Acts 17:22–18:8
 
 ---- Devos ----
 -
 
 
-1 Kings 16:8–18:15
+1 Kings 18:16–19:21
 
 ---- Devos ----
 -
