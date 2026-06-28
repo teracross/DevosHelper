@@ -1,22 +1,22 @@
-date: 6/27/2026
+date: 6/28/2026
 body:
-https://bible.alpha.org/en/classic/178/index.html - The God of Miracles
+https://bible.alpha.org/en/classic/179/index.html - Power Encounters
 -
 
 
-Psalm 78:17–31
+Psalm 78:32–39
 
 ---- Devos ----
 -
 
 
-Acts 17:22–18:8
+Acts 18:9–19:13
 
 ---- Devos ----
 -
 
 
-1 Kings 18:16–19:21
+1 Kings 20:1–21:29
 
 ---- Devos ----
 -
