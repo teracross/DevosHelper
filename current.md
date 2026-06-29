@@ -1,22 +1,22 @@
-date: 6/28/2026
+date: 6/29/2026
 body:
-https://bible.alpha.org/en/classic/179/index.html - Power Encounters
+https://bible.alpha.org/en/classic/180/index.html - How to Plan Your Life
 -
 
 
-Psalm 78:32–39
+Proverbs 15:31–16:7
 
 ---- Devos ----
 -
 
 
-Acts 18:9–19:13
+Acts 19:14–41
 
 ---- Devos ----
 -
 
 
-1 Kings 20:1–21:29
+1 Kings 22:1–53
 
 ---- Devos ----
 -
