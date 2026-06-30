@@ -1,22 +1,22 @@
-date: 6/29/2026
+date: 6/30/2026
 body:
-https://bible.alpha.org/en/classic/180/index.html - How to Plan Your Life
+https://bible.alpha.org/en/classic/181/index.html - The Most Powerful Message in the World
 -
 
 
-Proverbs 15:31–16:7
+Psalm 78:40–55
 
 ---- Devos ----
 -
 
 
-Acts 19:14–41
+Acts 20:1–38
 
 ---- Devos ----
 -
 
 
-1 Kings 22:1–53
+2 Kings 1:1–2:25
 
 ---- Devos ----
 -
