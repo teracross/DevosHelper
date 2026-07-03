@@ -1,22 +1,22 @@
-date: 7/2/2026
+date: 7/3/2026
 body:
-https://bible.alpha.org/en/classic/183/index.html - Transform Your World
+https://bible.alpha.org/en/classic/184/index.html - God's Purposes for You
 -
 
 
-Psalm 79:1–13
+Proverbs 16:8–17
 
 ---- Devos ----
 -
 
 
-Acts 21:27–22:21
+Acts 22:22–23:11
 
 ---- Devos ----
 -
 
 
-2 Kings 4:38–6:23
+2 Kings 6:24–8:15
 
 ---- Devos ----
 -
