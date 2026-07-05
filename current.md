@@ -1,22 +1,22 @@
-date: 7/4/2026
+date: 7/5/2026
 body:
-https://bible.alpha.org/en/classic/185/index.html - Opposition Turned into Opportunity
+https://bible.alpha.org/en/classic/186/index.html - The Light of God's Smile of Blessing Is On You
 -
 
 
-Psalm 80:1–7
+Psalm 80:8–19
 
 ---- Devos ----
 -
 
 
-Acts 23:12–35
+Acts 24:1–27
 
 ---- Devos ----
 -
 
 
-2 Kings 8:16–9:37
+2 Kings 10:1–11:21
 
 ---- Devos ----
 -
