@@ -1,22 +1,22 @@
-date: 7/5/2026
+date: 7/6/2026
 body:
-https://bible.alpha.org/en/classic/186/index.html - The Light of God's Smile of Blessing Is On You
+https://bible.alpha.org/en/classic/187/index.html - How to Cope with the Challenges of Life
 -
 
 
-Psalm 80:8–19
+Psalm 81:1–7
 
 ---- Devos ----
 -
 
 
-Acts 24:1–27
+Acts 25:1–22
 
 ---- Devos ----
 -
 
 
-2 Kings 10:1–11:21
+2 Kings 12:1–14:22
 
 ---- Devos ----
 -
