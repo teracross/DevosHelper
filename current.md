@@ -1,22 +1,22 @@
-date: 7/7/2026
+date: 7/8/2026
 body:
-https://bible.alpha.org/en/classic/188/index.html - The Dangers of Pride
+https://bible.alpha.org/en/classic/189/index.html - Listen to God
 -
 
 
-Proverbs 16:18–27
+Psalm 81:8–16
 
 ---- Devos ----
 -
 
 
-Acts 25:23–26:23
+Acts 26:24–27:12
 
 ---- Devos ----
 -
 
 
-2 Kings 14:23–15:38
+2 Kings 16:1–17:41
 
 ---- Devos ----
 -
