@@ -1,22 +1,22 @@
-date: 7/8/2026
+date: 7/9/2026
 body:
-https://bible.alpha.org/en/classic/189/index.html - Listen to God
+https://bible.alpha.org/en/classic/190/index.html - Trust in the Lord
 -
 
 
-Psalm 81:8–16
+Psalm 82:1–8
 
 ---- Devos ----
 -
 
 
-Acts 26:24–27:12
+Acts 27:13–44
 
 ---- Devos ----
 -
 
 
-2 Kings 16:1–17:41
+2 Kings 18:1–19:13
 
 ---- Devos ----
 -
