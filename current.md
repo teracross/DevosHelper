@@ -1,22 +1,22 @@
-date: 7/9/2026
+date: 7/10/2026
 body:
-https://bible.alpha.org/en/classic/190/index.html - Trust in the Lord
+https://bible.alpha.org/en/classic/191/index.html - Invisible but Invaluable
 -
 
 
-Psalm 82:1–8
+Psalm 83:1–18
 
 ---- Devos ----
 -
 
 
-Acts 27:13–44
+Acts 28:1–16
 
 ---- Devos ----
 -
 
 
-2 Kings 18:1–19:13
+2 Kings 19:14–20:21
 
 ---- Devos ----
 -
