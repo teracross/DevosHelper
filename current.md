@@ -1,22 +1,22 @@
-date: 7/10/2026
+date: 7/11/2026
 body:
-https://bible.alpha.org/en/classic/191/index.html - Invisible but Invaluable
+https://bible.alpha.org/en/classic/192/index.html - Your Words Are Powerful
 -
 
 
-Psalm 83:1–18
+Proverbs 16:28–17:4
 
 ---- Devos ----
 -
 
 
-Acts 28:1–16
+Acts 28:17–31
 
 ---- Devos ----
 -
 
 
-2 Kings 19:14–20:21
+2 Kings 21:1–22:20
 
 ---- Devos ----
 -
