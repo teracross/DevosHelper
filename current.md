@@ -1,22 +1,22 @@
-date: 7/11/2026
+date: 7/12/2026
 body:
-https://bible.alpha.org/en/classic/192/index.html - Your Words Are Powerful
+https://bible.alpha.org/en/classic/193/index.html - How to Restore Your Relationships
 -
 
 
-Proverbs 16:28–17:4
+Psalm 84:1–7
 
 ---- Devos ----
 -
 
 
-Acts 28:17–31
+Romans 1:1–17
 
 ---- Devos ----
 -
 
 
-2 Kings 21:1–22:20
+2 Kings 23:1–24:7
 
 ---- Devos ----
 -
