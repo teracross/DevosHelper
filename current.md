@@ -1,22 +1,22 @@
-date: 7/12/2026
+date: 7/13/2026
 body:
-https://bible.alpha.org/en/classic/193/index.html - How to Restore Your Relationships
+https://bible.alpha.org/en/classic/194/index.html - How to Worship God
 -
 
 
-Psalm 84:1–7
+Psalm 84:8–12
 
 ---- Devos ----
 -
 
 
-Romans 1:1–17
+Romans 1:18–32
 
 ---- Devos ----
 -
 
 
-2 Kings 23:1–24:7
+2 Kings 24:8–25:30
 
 ---- Devos ----
 -
