@@ -1,22 +1,22 @@
-date: 7/13/2026
+date: 7/14/2026
 body:
-https://bible.alpha.org/en/classic/194/index.html - How to Worship God
+https://bible.alpha.org/en/classic/195/index.html - The God of the Second Chance
 -
 
 
-Psalm 84:8–12
+Psalm 85:1–7
 
 ---- Devos ----
 -
 
 
-Romans 1:18–32
+Romans 2:1–16
 
 ---- Devos ----
 -
 
 
-2 Kings 24:8–25:30
+Jonah 1:1–4:11
 
 ---- Devos ----
 -
