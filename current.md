@@ -1,22 +1,22 @@
-date: 7/14/2026
+date: 7/15/2026
 body:
-https://bible.alpha.org/en/classic/195/index.html - The God of the Second Chance
+https://bible.alpha.org/en/classic/196/index.html - Soften Your Heart and Harden Your Feet
 -
 
 
-Psalm 85:1–7
+Proverbs 17:5–14
 
 ---- Devos ----
 -
 
 
-Romans 2:1–16
+Romans 2:17–3:8
 
 ---- Devos ----
 -
 
 
-Jonah 1:1–4:11
+Amos 1:1–2:16
 
 ---- Devos ----
 -
