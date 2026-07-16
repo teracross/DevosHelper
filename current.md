@@ -1,22 +1,22 @@
-date: 7/15/2026
+date: 7/16/2026
 body:
-https://bible.alpha.org/en/classic/196/index.html - Soften Your Heart and Harden Your Feet
+https://bible.alpha.org/en/classic/197/index.html - God's Game-Changing Answer
 -
 
 
-Proverbs 17:5–14
+Psalm 85:8–13
 
 ---- Devos ----
 -
 
 
-Romans 2:17–3:8
+Romans 3:9–31
 
 ---- Devos ----
 -
 
 
-Amos 1:1–2:16
+Amos 3:1–4:13
 
 ---- Devos ----
 -
