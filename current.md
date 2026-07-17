@@ -1,22 +1,22 @@
-date: 7/16/2026
+date: 7/17/2026
 body:
-https://bible.alpha.org/en/classic/197/index.html - God's Game-Changing Answer
+https://bible.alpha.org/en/classic/198/index.html - As If You Had Never Sinned
 -
 
 
-Psalm 85:8–13
+Psalm 86:1–10
 
 ---- Devos ----
 -
 
 
-Romans 3:9–31
+Romans 4:1–15
 
 ---- Devos ----
 -
 
 
-Amos 3:1–4:13
+Amos 5:1–27
 
 ---- Devos ----
 -
