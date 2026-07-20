@@ -1,22 +1,22 @@
-date: 7/19/2026
+date: 7/20/2026
 body:
-https://bible.alpha.org/en/classic/200/index.html - Just Grace
+https://bible.alpha.org/en/classic/201/index.html - Enjoy Your New Life
 -
 
 
-Proverbs 17:15–24
+Psalm 87:1–7
 
 ---- Devos ----
 -
 
 
-Romans 5:12–21
+Romans 6:1–14
 
 ---- Devos ----
 -
 
 
-Amos 8:1–9:15
+Hosea 1:1–2:23
 
 ---- Devos ----
 -
