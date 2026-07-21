@@ -1,22 +1,22 @@
-date: 7/20/2026
+date: 7/21/2026
 body:
-https://bible.alpha.org/en/classic/201/index.html - Enjoy Your New Life
+https://bible.alpha.org/en/classic/202/index.html - The Way Out of the Maze
 -
 
 
-Psalm 87:1–7
+Psalm 88:1–9
 
 ---- Devos ----
 -
 
 
-Romans 6:1–14
+Romans 6:15–7:6
 
 ---- Devos ----
 -
 
 
-Hosea 1:1–2:23
+Hosea 3:1–5:15
 
 ---- Devos ----
 -
