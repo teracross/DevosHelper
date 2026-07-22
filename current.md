@@ -1,22 +1,22 @@
-date: 7/21/2026
+date: 7/22/2026
 body:
-https://bible.alpha.org/en/classic/202/index.html - The Way Out of the Maze
+https://bible.alpha.org/en/classic/203/index.html - Help, Lord!
 -
 
 
-Psalm 88:1–9
+Psalm 88:9–18
 
 ---- Devos ----
 -
 
 
-Romans 6:15–7:6
+Romans 7:7–25
 
 ---- Devos ----
 -
 
 
-Hosea 3:1–5:15
+Hosea 6:1–7:16
 
 ---- Devos ----
 -
