@@ -1,22 +1,22 @@
-date: 7/22/2026
+date: 7/23/2026
 body:
-https://bible.alpha.org/en/classic/203/index.html - Help, Lord!
+https://bible.alpha.org/en/classic/204/index.html - Know You Are Loved
 -
 
 
-Psalm 88:9–18
+Proverbs 17:25–18:6
 
 ---- Devos ----
 -
 
 
-Romans 7:7–25
+Romans 8:1–17
 
 ---- Devos ----
 -
 
 
-Hosea 6:1–7:16
+Hosea 8:1–9:17
 
 ---- Devos ----
 -
