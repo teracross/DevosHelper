@@ -1,22 +1,22 @@
-date: 7/25/2026
+date: 7/26/2026
 body:
-https://bible.alpha.org/en/classic/206/index.html - What About Those Who Do Not Believe?
+https://bible.alpha.org/en/classic/207/index.html - Your Family Tree
 -
 
 
-Psalm 89:9–13
+Psalm 89:14–18
 
 ---- Devos ----
 -
 
 
-Romans 9:1–21
+Romans 9:22–10:4
 
 ---- Devos ----
 -
 
 
-Hosea 11:12–14:9
+1 Chronicles 1:1–2:17
 
 ---- Devos ----
 -
