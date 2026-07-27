@@ -1,22 +1,22 @@
-date: 7/26/2026
+date: 7/27/2026
 body:
-https://bible.alpha.org/en/classic/207/index.html - Your Family Tree
+https://bible.alpha.org/en/classic/208/index.html - Beautiful Feet
 -
 
 
-Psalm 89:14–18
+Proverbs 18:7–16
 
 ---- Devos ----
 -
 
 
-Romans 9:22–10:4
+Romans 10:5–11:10
 
 ---- Devos ----
 -
 
 
-1 Chronicles 1:1–2:17
+1 Chronicles 2:18–4:8
 
 ---- Devos ----
 -
