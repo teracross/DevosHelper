@@ -1,22 +1,22 @@
-date: 7/30/2026
+date: 7/31/2026
 body:
-https://bible.alpha.org/en/classic/211/index.html - How to Be a Good Citizen
+https://bible.alpha.org/en/classic/212/index.html - How to Avoid Arguments, Deal with Disputes and Stop Fighting
 -
 
 
-Psalm 89:38–45
+Proverbs 18:17–19:2
 
 ---- Devos ----
 -
 
 
-Romans 13:1–14
+Romans 14:1–18
 
 ---- Devos ----
 -
 
 
-1 Chronicles 7:1–9:1
+1 Chronicles 9:1b–10:14
 
 ---- Devos ----
 -
