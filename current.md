@@ -1,22 +1,22 @@
-date: 7/31/2026
+date: 8/1/2026
 body:
-https://bible.alpha.org/en/classic/212/index.html - How to Avoid Arguments, Deal with Disputes and Stop Fighting
+https://bible.alpha.org/en/classic/213/index.html - Bring People Hope
 -
 
 
-Proverbs 18:17–19:2
+Psalm 89:46–52
 
 ---- Devos ----
 -
 
 
-Romans 14:1–18
+Romans 14:19–15:13
 
 ---- Devos ----
 -
 
 
-1 Chronicles 9:1b–10:14
+1 Chronicles 11:1–12:22
 
 ---- Devos ----
 -
