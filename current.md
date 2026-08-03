@@ -1,22 +1,22 @@
-date: 8/2/2026
+date: 8/3/2026
 body:
-https://bible.alpha.org/en/classic/214/index.html - The Power of His Presence
+https://bible.alpha.org/en/classic/215/index.html - Working Without Wilting
 -
 
 
-Psalm 90:1–10
+Psalm 90:11–17
 
 ---- Devos ----
 -
 
 
-Romans 15:14–33
+Romans 16:1–27
 
 ---- Devos ----
 -
 
 
-1 Chronicles 12:23–14:17
+1 Chronicles 15:1–16:36
 
 ---- Devos ----
 -
