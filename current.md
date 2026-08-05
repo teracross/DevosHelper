@@ -1,22 +1,22 @@
-date: 8/4/2026
+date: 8/5/2026
 body:
-https://bible.alpha.org/en/classic/216/index.html - Unity
+https://bible.alpha.org/en/classic/217/index.html - Perfected in Weakness
 -
 
 
-Proverbs 19:3–12
+Psalm 91:1–8
 
 ---- Devos ----
 -
 
 
-1 Corinthians 1:1–17
+1 Corinthians 1:18–2:5
 
 ---- Devos ----
 -
 
 
-1 Chronicles 16:37–18:17
+1 Chronicles 19:1–22:1
 
 ---- Devos ----
 -
