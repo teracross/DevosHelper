@@ -1,22 +1,22 @@
-date: 8/7/2026
+date: 8/8/2026
 body:
-https://bible.alpha.org/en/classic/219/index.html - Three Bad Attitudes That Cause Division
+https://bible.alpha.org/en/classic/220/index.html - Money: A Blessing or a Curse?
 -
 
 
-Psalm 92:1–15
+Proverbs 19:13–22
 
 ---- Devos ----
 -
 
 
-1 Corinthians 3:1–23
+1 Corinthians 4:1–21
 
 ---- Devos ----
 -
 
 
-1 Chronicles 24:1–26:19
+1 Chronicles 26:20–27:34
 
 ---- Devos ----
 -
