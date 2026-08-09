@@ -1,22 +1,22 @@
-date: 8/8/2026
+date: 8/9/2026
 body:
-https://bible.alpha.org/en/classic/220/index.html - Money: A Blessing or a Curse?
+https://bible.alpha.org/en/classic/221/index.html - Only Holiness Leads to Happiness
 -
 
 
-Proverbs 19:13–22
+Psalm 93:1–5
 
 ---- Devos ----
 -
 
 
-1 Corinthians 4:1–21
+1 Corinthians 5:1–13
 
 ---- Devos ----
 -
 
 
-1 Chronicles 26:20–27:34
+1 Chronicles 28:1–29:30
 
 ---- Devos ----
 -
