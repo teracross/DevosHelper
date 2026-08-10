@@ -1,22 +1,22 @@
-date: 8/9/2026
+date: 8/10/2026
 body:
-https://bible.alpha.org/en/classic/221/index.html - Only Holiness Leads to Happiness
+https://bible.alpha.org/en/classic/222/index.html - Good Judgment
 -
 
 
-Psalm 93:1–5
+Psalm 94:1–11
 
 ---- Devos ----
 -
 
 
-1 Corinthians 5:1–13
+1 Corinthians 6:1–20
 
 ---- Devos ----
 -
 
 
-1 Chronicles 28:1–29:30
+2 Chronicles 1:1–17
 
 ---- Devos ----
 -
