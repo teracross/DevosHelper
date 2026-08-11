@@ -1,22 +1,22 @@
-date: 8/10/2026
+date: 8/11/2026
 body:
-https://bible.alpha.org/en/classic/222/index.html - Good Judgment
+https://bible.alpha.org/en/classic/223/index.html - Anxiety and Peace
 -
 
 
-Psalm 94:1–11
+Psalm 94:12–23
 
 ---- Devos ----
 -
 
 
-1 Corinthians 6:1–20
+1 Corinthians 7:1–16
 
 ---- Devos ----
 -
 
 
-2 Chronicles 1:1–17
+Ecclesiastes 1:1–3:22
 
 ---- Devos ----
 -
