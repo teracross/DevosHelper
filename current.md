@@ -1,22 +1,22 @@
-date: 8/12/2026
+date: 8/13/2026
 body:
-https://bible.alpha.org/en/classic/224/index.html - Enjoy Life in the Present
+https://bible.alpha.org/en/classic/225/index.html - Who You Need to Know
 -
 
 
-Proverbs 19:23–20:4
+Psalm 95:1–11
 
 ---- Devos ----
 -
 
 
-1 Corinthians 7:17–35
+1 Corinthians 7:36–8:13
 
 ---- Devos ----
 -
 
 
-Ecclesiastes 4:1–6:12
+Ecclesiastes 7:1–9:12
 
 ---- Devos ----
 -
