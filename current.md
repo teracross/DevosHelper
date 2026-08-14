@@ -1,22 +1,22 @@
-date: 8/13/2026
+date: 8/14/2026
 body:
-https://bible.alpha.org/en/classic/225/index.html - Who You Need to Know
+https://bible.alpha.org/en/classic/226/index.html - The Night with a Mosquito
 -
 
 
-Psalm 95:1–11
+Psalm 96:1–13
 
 ---- Devos ----
 -
 
 
-1 Corinthians 7:36–8:13
+1 Corinthians 9:1–18
 
 ---- Devos ----
 -
 
 
-Ecclesiastes 7:1–9:12
+Ecclesiastes 9:13–12:14
 
 ---- Devos ----
 -
