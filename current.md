@@ -1,22 +1,22 @@
-date: 8/14/2026
+date: 8/15/2026
 body:
-https://bible.alpha.org/en/classic/226/index.html - The Night with a Mosquito
+https://bible.alpha.org/en/classic/227/index.html - No Sloppy Living
 -
 
 
-Psalm 96:1–13
+Psalm 97:1–12
 
 ---- Devos ----
 -
 
 
-1 Corinthians 9:1–18
+1 Corinthians 9:19–10:13
 
 ---- Devos ----
 -
 
 
-Ecclesiastes 9:13–12:14
+2 Chronicles 2:1–5:1
 
 ---- Devos ----
 -
