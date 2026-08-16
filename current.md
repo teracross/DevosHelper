@@ -1,22 +1,22 @@
-date: 8/15/2026
+date: 8/16/2026
 body:
-https://bible.alpha.org/en/classic/227/index.html - No Sloppy Living
+https://bible.alpha.org/en/classic/228/index.html - How to Raise Your Game
 -
 
 
-Psalm 97:1–12
+Proverbs 20:5–14
 
 ---- Devos ----
 -
 
 
-1 Corinthians 9:19–10:13
+1 Corinthians 10:14–11:1
 
 ---- Devos ----
 -
 
 
-2 Chronicles 2:1–5:1
+2 Chronicles 5:2–7:10
 
 ---- Devos ----
 -
