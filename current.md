@@ -1,22 +1,22 @@
-date: 8/16/2026
+date: 8/17/2026
 body:
-https://bible.alpha.org/en/classic/228/index.html - How to Raise Your Game
+https://bible.alpha.org/en/classic/229/index.html - How to Enjoy God
 -
 
 
-Proverbs 20:5–14
+Psalm 98:1–9
 
 ---- Devos ----
 -
 
 
-1 Corinthians 10:14–11:1
+1 Corinthians 11:2–34
 
 ---- Devos ----
 -
 
 
-2 Chronicles 5:2–7:10
+2 Chronicles 7:11–9:31
 
 ---- Devos ----
 -
