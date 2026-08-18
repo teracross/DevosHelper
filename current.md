@@ -1,22 +1,22 @@
-date: 8/17/2026
+date: 8/18/2026
 body:
-https://bible.alpha.org/en/classic/229/index.html - How to Enjoy God
+https://bible.alpha.org/en/classic/230/index.html - Intimate Relationships
 -
 
 
-Psalm 98:1–9
+Psalm 99:1–9
 
 ---- Devos ----
 -
 
 
-1 Corinthians 11:2–34
+1 Corinthians 12:1–26
 
 ---- Devos ----
 -
 
 
-2 Chronicles 7:11–9:31
+Song of Songs 1:1–4:16
 
 ---- Devos ----
 -
