@@ -1,22 +1,22 @@
-date: 8/19/2026
+date: 8/20/2026
 body:
-https://bible.alpha.org/en/classic/231/index.html - Sixteen Characteristics of Love
+https://bible.alpha.org/en/classic/232/index.html - How to Listen to the Holy Spirit
 -
 
 
-Psalm 100:1–5
+Proverbs 20:15–24
 
 ---- Devos ----
 -
 
 
-1 Corinthians 12:27–13:13
+1 Corinthians 14:1–19
 
 ---- Devos ----
 -
 
 
-Song of Songs 5:1–8:14
+2 Chronicles 10:1–12:16
 
 ---- Devos ----
 -
