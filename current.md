@@ -1,22 +1,22 @@
-date: 8/20/2026
+date: 8/21/2026
 body:
-https://bible.alpha.org/en/classic/232/index.html - How to Listen to the Holy Spirit
+https://bible.alpha.org/en/classic/233/index.html - How to Find and Keep Peace
 -
 
 
-Proverbs 20:15–24
+Psalm 101:1–8
 
 ---- Devos ----
 -
 
 
-1 Corinthians 14:1–19
+1 Corinthians 14:20–40
 
 ---- Devos ----
 -
 
 
-2 Chronicles 10:1–12:16
+2 Chronicles 13:1–15:19
 
 ---- Devos ----
 -
