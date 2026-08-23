@@ -1,22 +1,22 @@
-date: 8/22/2026
+date: 8/23/2026
 body:
-https://bible.alpha.org/en/classic/234/index.html - Wholehearted Living
+https://bible.alpha.org/en/classic/235/index.html - Trust God to Do it His Way
 -
 
 
-Psalm 102:1–11
+Psalm 102:12–17
 
 ---- Devos ----
 -
 
 
-1 Corinthians 15:1–34
+1 Corinthians 15:35–49
 
 ---- Devos ----
 -
 
 
-2 Chronicles 16:1–18:27
+2 Chronicles 18:28–21:3
 
 ---- Devos ----
 -
