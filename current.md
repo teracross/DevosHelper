@@ -1,22 +1,22 @@
-date: 8/23/2026
+date: 8/24/2026
 body:
-https://bible.alpha.org/en/classic/235/index.html - Trust God to Do it His Way
+https://bible.alpha.org/en/classic/236/index.html - Winning the Battle
 -
 
 
-Psalm 102:12–17
+Proverbs 20:25–21:4
 
 ---- Devos ----
 -
 
 
-1 Corinthians 15:35–49
+1 Corinthians 15:50–16:4
 
 ---- Devos ----
 -
 
 
-2 Chronicles 18:28–21:3
+2 Chronicles 21:4–23:21
 
 ---- Devos ----
 -
