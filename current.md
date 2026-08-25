@@ -1,22 +1,22 @@
-date: 8/24/2026
+date: 8/25/2026
 body:
-https://bible.alpha.org/en/classic/236/index.html - Winning the Battle
+https://bible.alpha.org/en/classic/237/index.html - Strong Families
 -
 
 
-Proverbs 20:25–21:4
+Psalm 102:18–28
 
 ---- Devos ----
 -
 
 
-1 Corinthians 15:50–16:4
+1 Corinthians 16:5–24
 
 ---- Devos ----
 -
 
 
-2 Chronicles 21:4–23:21
+2 Chronicles 24:1–25:28
 
 ---- Devos ----
 -
