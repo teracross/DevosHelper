@@ -1,22 +1,22 @@
-date: 8/25/2026
+date: 8/26/2026
 body:
-https://bible.alpha.org/en/classic/237/index.html - Strong Families
+https://bible.alpha.org/en/classic/238/index.html - God's Benefit Package
 -
 
 
-Psalm 102:18–28
+Psalm 103:1–12
 
 ---- Devos ----
 -
 
 
-1 Corinthians 16:5–24
+2 Corinthians 1:1–11
 
 ---- Devos ----
 -
 
 
-2 Chronicles 24:1–25:28
+2 Chronicles 26:1–28:27
 
 ---- Devos ----
 -
