@@ -1,22 +1,22 @@
-date: 8/26/2026
+date: 8/27/2026
 body:
-https://bible.alpha.org/en/classic/238/index.html - God's Benefit Package
+https://bible.alpha.org/en/classic/239/index.html - Anointed by God
 -
 
 
-Psalm 103:1–12
+Psalm 103:13–22
 
 ---- Devos ----
 -
 
 
-2 Corinthians 1:1–11
+2 Corinthians 1:12–22
 
 ---- Devos ----
 -
 
 
-2 Chronicles 26:1–28:27
+2 Chronicles 29:1–31:1
 
 ---- Devos ----
 -
