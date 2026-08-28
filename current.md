@@ -1,22 +1,22 @@
-date: 8/27/2026
+date: 8/28/2026
 body:
-https://bible.alpha.org/en/classic/239/index.html - Anointed by God
+https://bible.alpha.org/en/classic/240/index.html - Just Love
 -
 
 
-Psalm 103:13–22
+Proverbs 21:5–16
 
 ---- Devos ----
 -
 
 
-2 Corinthians 1:12–22
+2 Corinthians 1:23–2:11
 
 ---- Devos ----
 -
 
 
-2 Chronicles 29:1–31:1
+2 Chronicles 31:2–33:20
 
 ---- Devos ----
 -
