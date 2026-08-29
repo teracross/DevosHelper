@@ -1,22 +1,22 @@
-date: 8/28/2026
+date: 8/29/2026
 body:
-https://bible.alpha.org/en/classic/240/index.html - Just Love
+https://bible.alpha.org/en/classic/241/index.html - When the Holy Spirit Comes
 -
 
 
-Proverbs 21:5–16
+Psalm 104:1–18
 
 ---- Devos ----
 -
 
 
-2 Corinthians 1:23–2:11
+2 Corinthians 2:12–3:6
 
 ---- Devos ----
 -
 
 
-2 Chronicles 31:2–33:20
+2 Chronicles 33:21–35:19
 
 ---- Devos ----
 -
