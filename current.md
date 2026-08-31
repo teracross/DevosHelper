@@ -1,22 +1,22 @@
-date: 8/30/2026
+date: 8/31/2026
 body:
-https://bible.alpha.org/en/classic/242/index.html - How to Have a Spiritual Facelift
+https://bible.alpha.org/en/classic/243/index.html - Fix Your Eyes on the Invisible
 -
 
 
-Psalm 104:19–30
+Psalm 104:31–35
 
 ---- Devos ----
 -
 
 
-2 Corinthians 3:7–18
+2 Corinthians 4:1–18
 
 ---- Devos ----
 -
 
 
-2 Chronicles 35:20–36:23
+Micah 1:1–4:13
 
 ---- Devos ----
 -
