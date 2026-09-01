@@ -1,22 +1,22 @@
-date: 8/31/2026
+date: 9/1/2026
 body:
-https://bible.alpha.org/en/classic/243/index.html - Fix Your Eyes on the Invisible
+https://bible.alpha.org/en/classic/244/index.html - Find Your Purpose in Life
 -
 
 
-Psalm 104:31–35
+Proverbs 21:17–26
 
 ---- Devos ----
 -
 
 
-2 Corinthians 4:1–18
+2 Corinthians 5:1–10
 
 ---- Devos ----
 -
 
 
-Micah 1:1–4:13
+Micah 5:1–7:20
 
 ---- Devos ----
 -
