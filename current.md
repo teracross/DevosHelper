@@ -1,22 +1,22 @@
-date: 9/1/2026
+date: 9/2/2026
 body:
-https://bible.alpha.org/en/classic/244/index.html - Find Your Purpose in Life
+https://bible.alpha.org/en/classic/245/index.html - Recognise Who You Are
 -
 
 
-Proverbs 21:17–26
+Psalm 105:1–11
 
 ---- Devos ----
 -
 
 
-2 Corinthians 5:1–10
+2 Corinthians 5:11–6:2
 
 ---- Devos ----
 -
 
 
-Micah 5:1–7:20
+Isaiah 1:1–2:22
 
 ---- Devos ----
 -
