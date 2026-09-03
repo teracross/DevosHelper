@@ -1,22 +1,22 @@
-date: 9/2/2026
+date: 9/3/2026
 body:
-https://bible.alpha.org/en/classic/245/index.html - Recognise Who You Are
+https://bible.alpha.org/en/classic/246/index.html - How Your Life Can Make a Difference
 -
 
 
-Psalm 105:1–11
+Psalm 105:12–22
 
 ---- Devos ----
 -
 
 
-2 Corinthians 5:11–6:2
+2 Corinthians 6:3–7:1
 
 ---- Devos ----
 -
 
 
-Isaiah 1:1–2:22
+Isaiah 3:1–5:7
 
 ---- Devos ----
 -
