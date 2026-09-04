@@ -1,22 +1,22 @@
-date: 9/3/2026
+date: 9/4/2026
 body:
-https://bible.alpha.org/en/classic/246/index.html - How Your Life Can Make a Difference
+https://bible.alpha.org/en/classic/247/index.html - How Can You Be Useful to God?
 -
 
 
-Psalm 105:12–22
+Psalm 105:23–36
 
 ---- Devos ----
 -
 
 
-2 Corinthians 6:3–7:1
+2 Corinthians 7:2–16
 
 ---- Devos ----
 -
 
 
-Isaiah 3:1–5:7
+Isaiah 5:8–8:10
 
 ---- Devos ----
 -
