@@ -1,22 +1,22 @@
-date: 9/4/2026
+date: 9/5/2026
 body:
-https://bible.alpha.org/en/classic/247/index.html - How Can You Be Useful to God?
+https://bible.alpha.org/en/classic/248/index.html - Godly Wisdom for Your Finances
 -
 
 
-Psalm 105:23–36
+Proverbs 21:27–22:6
 
 ---- Devos ----
 -
 
 
-2 Corinthians 7:2–16
+2 Corinthians 8:1–15
 
 ---- Devos ----
 -
 
 
-Isaiah 5:8–8:10
+Isaiah 8:11–10:19
 
 ---- Devos ----
 -
