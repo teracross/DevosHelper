@@ -1,22 +1,22 @@
-date: 9/7/2026
+date: 9/8/2026
 body:
-https://bible.alpha.org/en/classic/250/index.html - Ten Reasons to Give Generously
+https://bible.alpha.org/en/classic/251/index.html - Winning the Spiritual Battle
 -
 
 
-Psalm 106:1–15
+Psalm 106:16–31
 
 ---- Devos ----
 -
 
 
-2 Corinthians 9:6–15
+2 Corinthians 10:1–18
 
 ---- Devos ----
 -
 
 
-Isaiah 14:1–16:14
+Isaiah 17:1–19:25
 
 ---- Devos ----
 -
