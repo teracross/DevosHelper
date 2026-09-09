@@ -1,22 +1,22 @@
-date: 9/8/2026
+date: 9/9/2026
 body:
-https://bible.alpha.org/en/classic/251/index.html - Winning the Spiritual Battle
+https://bible.alpha.org/en/classic/252/index.html - How to Know and Love Jesus
 -
 
 
-Psalm 106:16–31
+Proverbs 22:7–16
 
 ---- Devos ----
 -
 
 
-2 Corinthians 10:1–18
+2 Corinthians 11:1–15
 
 ---- Devos ----
 -
 
 
-Isaiah 17:1–19:25
+Isaiah 20:1–23:18
 
 ---- Devos ----
 -
