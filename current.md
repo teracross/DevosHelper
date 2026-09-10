@@ -1,22 +1,22 @@
-date: 9/9/2026
+date: 9/10/2026
 body:
-https://bible.alpha.org/en/classic/252/index.html - How to Know and Love Jesus
+https://bible.alpha.org/en/classic/253/index.html - Peace in the Dark Places
 -
 
 
-Proverbs 22:7–16
+Psalm 106:32–39
 
 ---- Devos ----
 -
 
 
-2 Corinthians 11:1–15
+2 Corinthians 11:16–33
 
 ---- Devos ----
 -
 
 
-Isaiah 20:1–23:18
+Isaiah 24:1–26:21
 
 ---- Devos ----
 -
