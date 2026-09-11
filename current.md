@@ -1,22 +1,22 @@
-date: 9/10/2026
+date: 9/11/2026
 body:
-https://bible.alpha.org/en/classic/253/index.html - Peace in the Dark Places
+https://bible.alpha.org/en/classic/254/index.html - His Grace is Enough for You
 -
 
 
-Psalm 106:32–39
+Psalm 106:40–48
 
 ---- Devos ----
 -
 
 
-2 Corinthians 11:16–33
+2 Corinthians 12:1–10
 
 ---- Devos ----
 -
 
 
-Isaiah 24:1–26:21
+Isaiah 27:1–28:29
 
 ---- Devos ----
 -
