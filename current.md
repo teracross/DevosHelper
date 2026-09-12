@@ -1,22 +1,22 @@
-date: 9/11/2026
+date: 9/12/2026
 body:
-https://bible.alpha.org/en/classic/254/index.html - His Grace is Enough for You
+https://bible.alpha.org/en/classic/255/index.html - How to Stay on God's Paths
 -
 
 
-Psalm 106:40–48
+Psalm 107:1–9
 
 ---- Devos ----
 -
 
 
-2 Corinthians 12:1–10
+2 Corinthians 12:11–21
 
 ---- Devos ----
 -
 
 
-Isaiah 27:1–28:29
+Isaiah 29:1–30:18
 
 ---- Devos ----
 -
