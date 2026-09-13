@@ -1,22 +1,22 @@
-date: 9/12/2026
+date: 9/13/2026
 body:
-https://bible.alpha.org/en/classic/255/index.html - How to Stay on God's Paths
+https://bible.alpha.org/en/classic/256/index.html - Jesus Christ Lives in You
 -
 
 
-Psalm 107:1–9
+Proverbs 22:17–27
 
 ---- Devos ----
 -
 
 
-2 Corinthians 12:11–21
+2 Corinthians 13:1–14
 
 ---- Devos ----
 -
 
 
-Isaiah 29:1–30:18
+Isaiah 30:19–32:20
 
 ---- Devos ----
 -
