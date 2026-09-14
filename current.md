@@ -1,22 +1,22 @@
-date: 9/13/2026
+date: 9/14/2026
 body:
-https://bible.alpha.org/en/classic/256/index.html - Jesus Christ Lives in You
+https://bible.alpha.org/en/classic/257/index.html - 'Are You Saved?'
 -
 
 
-Proverbs 22:17–27
+Psalm 107:10–22
 
 ---- Devos ----
 -
 
 
-2 Corinthians 13:1–14
+Galatians 1:1–24
 
 ---- Devos ----
 -
 
 
-Isaiah 30:19–32:20
+Isaiah 33:1–35:10
 
 ---- Devos ----
 -
