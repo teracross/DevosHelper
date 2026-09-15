@@ -1,22 +1,22 @@
-date: 9/14/2026
+date: 9/15/2026
 body:
-https://bible.alpha.org/en/classic/257/index.html - 'Are You Saved?'
+https://bible.alpha.org/en/classic/258/index.html - Every Crisis is an Opportunity
 -
 
 
-Psalm 107:10–22
+Psalm 107:23–32
 
 ---- Devos ----
 -
 
 
-Galatians 1:1–24
+Galatians 2:1–10
 
 ---- Devos ----
 -
 
 
-Isaiah 33:1–35:10
+Isaiah 36:1–37:38
 
 ---- Devos ----
 -
