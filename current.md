@@ -1,22 +1,22 @@
-date: 9/15/2026
+date: 9/16/2026
 body:
-https://bible.alpha.org/en/classic/258/index.html - Every Crisis is an Opportunity
+https://bible.alpha.org/en/classic/259/index.html - God Loves Imperfect People
 -
 
 
-Psalm 107:23–32
+Psalm 107:33–43
 
 ---- Devos ----
 -
 
 
-Galatians 2:1–10
+Galatians 2:11–3:9
 
 ---- Devos ----
 -
 
 
-Isaiah 36:1–37:38
+Isaiah 38:1–40:31
 
 ---- Devos ----
 -
