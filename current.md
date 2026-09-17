@@ -1,22 +1,22 @@
-date: 9/16/2026
+date: 9/17/2026
 body:
-https://bible.alpha.org/en/classic/259/index.html - God Loves Imperfect People
+https://bible.alpha.org/en/classic/260/index.html - The Best Way to Lead
 -
 
 
-Psalm 107:33–43
+Proverbs 22:28–23:9
 
 ---- Devos ----
 -
 
 
-Galatians 2:11–3:9
+Galatians 3:10–25
 
 ---- Devos ----
 -
 
 
-Isaiah 38:1–40:31
+Isaiah 41:1–42:25
 
 ---- Devos ----
 -
