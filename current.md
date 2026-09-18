@@ -1,22 +1,22 @@
-date: 9/17/2026
+date: 9/18/2026
 body:
-https://bible.alpha.org/en/classic/260/index.html - The Best Way to Lead
+https://bible.alpha.org/en/classic/261/index.html - God is Nice and He Likes You
 -
 
 
-Proverbs 22:28–23:9
+Psalm 108:1–5
 
 ---- Devos ----
 -
 
 
-Galatians 3:10–25
+Galatians 3:26–4:20
 
 ---- Devos ----
 -
 
 
-Isaiah 41:1–42:25
+Isaiah 43:1–44:23
 
 ---- Devos ----
 -
