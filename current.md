@@ -1,22 +1,22 @@
-date: 9/20/2026
+date: 9/21/2026
 body:
-https://bible.alpha.org/en/classic/263/index.html - How to Deal with Conflict
+https://bible.alpha.org/en/classic/264/index.html - Never Give Up
 -
 
 
-Psalm 109:1–20
+Proverbs 23:10–18
 
 ---- Devos ----
 -
 
 
-Galatians 5:7–26
+Galatians 6:1–18
 
 ---- Devos ----
 -
 
 
-Isaiah 47:1–49:7
+Isaiah 49:8–51:16
 
 ---- Devos ----
 -
