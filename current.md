@@ -1,22 +1,22 @@
-date: 9/21/2026
+date: 9/22/2026
 body:
-https://bible.alpha.org/en/classic/264/index.html - Never Give Up
+https://bible.alpha.org/en/classic/265/index.html - Understand Your Identity
 -
 
 
-Proverbs 23:10–18
+Psalm 109:21–31
 
 ---- Devos ----
 -
 
 
-Galatians 6:1–18
+Ephesians 1:1–23
 
 ---- Devos ----
 -
 
 
-Isaiah 49:8–51:16
+Isaiah 51:17–54:17
 
 ---- Devos ----
 -
