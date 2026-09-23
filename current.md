@@ -1,22 +1,22 @@
-date: 9/22/2026
+date: 9/23/2026
 body:
-https://bible.alpha.org/en/classic/265/index.html - Understand Your Identity
+https://bible.alpha.org/en/classic/266/index.html - What Difference Does Jesus Make?
 -
 
 
-Psalm 109:21–31
+Psalm 110:1–7
 
 ---- Devos ----
 -
 
 
-Ephesians 1:1–23
+Ephesians 2:1–22
 
 ---- Devos ----
 -
 
 
-Isaiah 51:17–54:17
+Isaiah 55:1–57:13
 
 ---- Devos ----
 -
