@@ -1,22 +1,22 @@
-date: 9/23/2026
+date: 9/24/2026
 body:
-https://bible.alpha.org/en/classic/266/index.html - What Difference Does Jesus Make?
+https://bible.alpha.org/en/classic/267/index.html - Mystery
 -
 
 
-Psalm 110:1–7
+Psalm 111:1–10
 
 ---- Devos ----
 -
 
 
-Ephesians 2:1–22
+Ephesians 3:1–21
 
 ---- Devos ----
 -
 
 
-Isaiah 55:1–57:13
+Isaiah 57:14–59:21
 
 ---- Devos ----
 -
