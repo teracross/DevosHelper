@@ -1,22 +1,22 @@
-date: 9/24/2026
+date: 9/25/2026
 body:
-https://bible.alpha.org/en/classic/267/index.html - Mystery
+https://bible.alpha.org/en/classic/268/index.html - Spirit-Powered Living
 -
 
 
-Psalm 111:1–10
+Proverbs 23:19–28
 
 ---- Devos ----
 -
 
 
-Ephesians 3:1–21
+Ephesians 4:1–16
 
 ---- Devos ----
 -
 
 
-Isaiah 57:14–59:21
+Isaiah 60:1–62:12
 
 ---- Devos ----
 -
