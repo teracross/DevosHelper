@@ -1,22 +1,22 @@
-date: 9/25/2026
+date: 9/26/2026
 body:
-https://bible.alpha.org/en/classic/268/index.html - Spirit-Powered Living
+https://bible.alpha.org/en/classic/269/index.html - Six Keys to Good Relationships
 -
 
 
-Proverbs 23:19–28
+Psalm 112:1–10
 
 ---- Devos ----
 -
 
 
-Ephesians 4:1–16
+Ephesians 4:17–5:7
 
 ---- Devos ----
 -
 
 
-Isaiah 60:1–62:12
+Isaiah 63:1–65:16
 
 ---- Devos ----
 -
