@@ -1,22 +1,22 @@
-date: 9/26/2026
+date: 9/27/2026
 body:
-https://bible.alpha.org/en/classic/269/index.html - Six Keys to Good Relationships
+https://bible.alpha.org/en/classic/270/index.html - Seven Ways You Please the Lord
 -
 
 
-Psalm 112:1–10
+Psalm 113:1–9
 
 ---- Devos ----
 -
 
 
-Ephesians 4:17–5:7
+Ephesians 5:8–33
 
 ---- Devos ----
 -
 
 
-Isaiah 63:1–65:16
+Isaiah 65:17–66:24
 
 ---- Devos ----
 -
