@@ -1,22 +1,22 @@
-date: 9/27/2026
+date: 9/28/2026
 body:
-https://bible.alpha.org/en/classic/270/index.html - Seven Ways You Please the Lord
+https://bible.alpha.org/en/classic/271/index.html - Seven Life-Changing Habits
 -
 
 
-Psalm 113:1–9
+Psalm 114:1–8
 
 ---- Devos ----
 -
 
 
-Ephesians 5:8–33
+Ephesians 6:1–24
 
 ---- Devos ----
 -
 
 
-Isaiah 65:17–66:24
+Nahum 1:1–3:19
 
 ---- Devos ----
 -
