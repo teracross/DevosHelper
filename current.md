@@ -1,22 +1,22 @@
-date: 9/28/2026
+date: 9/29/2026
 body:
-https://bible.alpha.org/en/classic/271/index.html - Seven Life-Changing Habits
+https://bible.alpha.org/en/classic/272/index.html - A Life Worth Living
 -
 
 
-Psalm 114:1–8
+Proverbs 23:29–24:4
 
 ---- Devos ----
 -
 
 
-Ephesians 6:1–24
+Philippians 1:1–26
 
 ---- Devos ----
 -
 
 
-Nahum 1:1–3:19
+Zephaniah 1:1–3:20
 
 ---- Devos ----
 -
