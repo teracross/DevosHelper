@@ -1,22 +1,22 @@
-date: 9/29/2026
+date: 9/30/2026
 body:
-https://bible.alpha.org/en/classic/272/index.html - A Life Worth Living
+https://bible.alpha.org/en/classic/273/index.html - Bounce it Back Up
 -
 
 
-Proverbs 23:29–24:4
+Psalm 115:1–11
 
 ---- Devos ----
 -
 
 
-Philippians 1:1–26
+Philippians 1:27–2:11
 
 ---- Devos ----
 -
 
 
-Zephaniah 1:1–3:20
+Jeremiah 1:1–2:30
 
 ---- Devos ----
 -
