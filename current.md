@@ -1,22 +1,22 @@
-date: 9/30/2026
+date: 10/1/2026
 body:
-https://bible.alpha.org/en/classic/273/index.html - Bounce it Back Up
+https://bible.alpha.org/en/classic/274/index.html - How to Be a Blessing Machine
 -
 
 
-Psalm 115:1–11
+Psalm 115:12–18
 
 ---- Devos ----
 -
 
 
-Philippians 1:27–2:11
+Philippians 2:12–30
 
 ---- Devos ----
 -
 
 
-Jeremiah 1:1–2:30
+Jeremiah 2:31–4:9
 
 ---- Devos ----
 -
