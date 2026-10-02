@@ -1,22 +1,22 @@
-date: 10/1/2026
+date: 10/2/2026
 body:
-https://bible.alpha.org/en/classic/274/index.html - How to Be a Blessing Machine
+https://bible.alpha.org/en/classic/275/index.html - Godly Ambition
 -
 
 
-Psalm 115:12–18
+Psalm 116:1–11
 
 ---- Devos ----
 -
 
 
-Philippians 2:12–30
+Philippians 3:1–4:1
 
 ---- Devos ----
 -
 
 
-Jeremiah 2:31–4:9
+Jeremiah 4:10–5:31
 
 ---- Devos ----
 -
