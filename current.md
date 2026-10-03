@@ -1,22 +1,22 @@
-date: 10/2/2026
+date: 10/3/2026
 body:
-https://bible.alpha.org/en/classic/275/index.html - Godly Ambition
+https://bible.alpha.org/en/classic/276/index.html - The Key to Contentment
 -
 
 
-Psalm 116:1–11
+Proverbs 24:5–14
 
 ---- Devos ----
 -
 
 
-Philippians 3:1–4:1
+Philippians 4:2–23
 
 ---- Devos ----
 -
 
 
-Jeremiah 4:10–5:31
+Jeremiah 6:1–7:29
 
 ---- Devos ----
 -
