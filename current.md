@@ -1,22 +1,22 @@
-date: 10/3/2026
+date: 10/4/2026
 body:
-https://bible.alpha.org/en/classic/276/index.html - The Key to Contentment
+https://bible.alpha.org/en/classic/277/index.html - Attitude of Gratitude
 -
 
 
-Proverbs 24:5–14
+Psalm 116:12–19
 
 ---- Devos ----
 -
 
 
-Philippians 4:2–23
+Colossians 1:1–23
 
 ---- Devos ----
 -
 
 
-Jeremiah 6:1–7:29
+Jeremiah 7:30–9:16
 
 ---- Devos ----
 -
