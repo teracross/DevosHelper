@@ -1,22 +1,22 @@
-date: 10/4/2026
+date: 10/5/2026
 body:
-https://bible.alpha.org/en/classic/277/index.html - Attitude of Gratitude
+https://bible.alpha.org/en/classic/278/index.html - What Is the Meaning of Life?
 -
 
 
-Psalm 116:12–19
+Psalm 117:1–2
 
 ---- Devos ----
 -
 
 
-Colossians 1:1–23
+Colossians 1:24–2:5
 
 ---- Devos ----
 -
 
 
-Jeremiah 7:30–9:16
+Jeremiah 9:17–11:17
 
 ---- Devos ----
 -
