@@ -1,22 +1,22 @@
-date: 10/5/2026
+date: 10/6/2026
 body:
-https://bible.alpha.org/en/classic/278/index.html - What Is the Meaning of Life?
+https://bible.alpha.org/en/classic/279/index.html - Can a Leopard Change its Spots?
 -
 
 
-Psalm 117:1–2
+Psalm 118:1–16
 
 ---- Devos ----
 -
 
 
-Colossians 1:24–2:5
+Colossians 2:6–23
 
 ---- Devos ----
 -
 
 
-Jeremiah 9:17–11:17
+Jeremiah 11:18–13:27
 
 ---- Devos ----
 -
