@@ -1,22 +1,22 @@
-date: 10/6/2026
+date: 10/7/2026
 body:
-https://bible.alpha.org/en/classic/279/index.html - Can a Leopard Change its Spots?
+https://bible.alpha.org/en/classic/280/index.html - New Clothes
 -
 
 
-Psalm 118:1–16
+Proverbs 24:15–22
 
 ---- Devos ----
 -
 
 
-Colossians 2:6–23
+Colossians 3:1–4:1
 
 ---- Devos ----
 -
 
 
-Jeremiah 11:18–13:27
+Jeremiah 14:1–15:21
 
 ---- Devos ----
 -
