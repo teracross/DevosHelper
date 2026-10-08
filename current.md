@@ -1,22 +1,22 @@
-date: 10/7/2026
+date: 10/8/2026
 body:
-https://bible.alpha.org/en/classic/280/index.html - New Clothes
+https://bible.alpha.org/en/classic/281/index.html - Glorified in Defeat
 -
 
 
-Proverbs 24:15–22
+Psalm 118:17–29
 
 ---- Devos ----
 -
 
 
-Colossians 3:1–4:1
+Colossians 4:2–18
 
 ---- Devos ----
 -
 
 
-Jeremiah 14:1–15:21
+Jeremiah 16:1–17:27
 
 ---- Devos ----
 -
