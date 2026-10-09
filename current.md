@@ -1,22 +1,22 @@
-date: 10/8/2026
+date: 10/9/2026
 body:
-https://bible.alpha.org/en/classic/281/index.html - Glorified in Defeat
+https://bible.alpha.org/en/classic/282/index.html - Life-changing Words
 -
 
 
-Psalm 118:17–29
+Psalm 119:1–8
 
 ---- Devos ----
 -
 
 
-Colossians 4:2–18
+1 Thessalonians 1:1–2:16
 
 ---- Devos ----
 -
 
 
-Jeremiah 16:1–17:27
+Jeremiah 18:1–20:18
 
 ---- Devos ----
 -
