@@ -1,22 +1,22 @@
-date: 10/9/2026
+date: 10/10/2026
 body:
-https://bible.alpha.org/en/classic/282/index.html - Life-changing Words
+https://bible.alpha.org/en/classic/283/index.html - Surprised by Joy
 -
 
 
-Psalm 119:1–8
+Psalm 119:9–16
 
 ---- Devos ----
 -
 
 
-1 Thessalonians 1:1–2:16
+1 Thessalonians 2:17–3:13
 
 ---- Devos ----
 -
 
 
-Jeremiah 18:1–20:18
+Jeremiah 21:1–23:8
 
 ---- Devos ----
 -
