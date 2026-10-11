@@ -1,22 +1,22 @@
-date: 10/10/2026
+date: 10/11/2026
 body:
-https://bible.alpha.org/en/classic/283/index.html - Surprised by Joy
+https://bible.alpha.org/en/classic/284/index.html - More
 -
 
 
-Psalm 119:9–16
+Proverbs 24:23–34
 
 ---- Devos ----
 -
 
 
-1 Thessalonians 2:17–3:13
+1 Thessalonians 4:1–18
 
 ---- Devos ----
 -
 
 
-Jeremiah 21:1–23:8
+Jeremiah 23:9–25:14
 
 ---- Devos ----
 -
