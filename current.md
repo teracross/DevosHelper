@@ -1,22 +1,22 @@
-date: 10/11/2026
+date: 10/12/2026
 body:
-https://bible.alpha.org/en/classic/284/index.html - More
+https://bible.alpha.org/en/classic/285/index.html - Dare to Be Different
 -
 
 
-Proverbs 24:23–34
+Psalm 119:17–24
 
 ---- Devos ----
 -
 
 
-1 Thessalonians 4:1–18
+1 Thessalonians 5:1–28
 
 ---- Devos ----
 -
 
 
-Jeremiah 23:9–25:14
+Jeremiah 25:15–26:24
 
 ---- Devos ----
 -
