@@ -1,22 +1,22 @@
-date: 10/12/2026
+date: 10/13/2026
 body:
-https://bible.alpha.org/en/classic/285/index.html - Dare to Be Different
+https://bible.alpha.org/en/classic/286/index.html - God's Good Plans for Your Future
 -
 
 
-Psalm 119:17–24
+Psalm 119:25–32
 
 ---- Devos ----
 -
 
 
-1 Thessalonians 5:1–28
+2 Thessalonians 1:1–12
 
 ---- Devos ----
 -
 
 
-Jeremiah 25:15–26:24
+Jeremiah 27:1–29:23
 
 ---- Devos ----
 -
