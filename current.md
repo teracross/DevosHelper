@@ -1,22 +1,22 @@
-date: 10/14/2026
+date: 10/15/2026
 body:
-https://bible.alpha.org/en/classic/287/index.html - How to Avoid Backsliding
+https://bible.alpha.org/en/classic/288/index.html - Never Tire of Doing What Is Right
 -
 
 
-Psalm 119:33–40
+Proverbs 25:1–10
 
 ---- Devos ----
 -
 
 
-2 Thessalonians 2:1–17
+2 Thessalonians 3:1–18
 
 ---- Devos ----
 -
 
 
-Jeremiah 29:24–31:14
+Jeremiah 31:15–32:25
 
 ---- Devos ----
 -
