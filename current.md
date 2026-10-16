@@ -1,22 +1,22 @@
-date: 10/15/2026
+date: 10/16/2026
 body:
-https://bible.alpha.org/en/classic/288/index.html - Never Tire of Doing What Is Right
+https://bible.alpha.org/en/classic/289/index.html - The Biggest Decision of My Life
 -
 
 
-Proverbs 25:1–10
+Psalm 119:41–48
 
 ---- Devos ----
 -
 
 
-2 Thessalonians 3:1–18
+1 Timothy 1:1–20
 
 ---- Devos ----
 -
 
 
-Jeremiah 31:15–32:25
+Jeremiah 32:26–34:22
 
 ---- Devos ----
 -
