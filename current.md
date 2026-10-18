@@ -1,22 +1,22 @@
-date: 10/17/2026
+date: 10/18/2026
 body:
-https://bible.alpha.org/en/classic/290/index.html - How to Pray
+https://bible.alpha.org/en/classic/291/index.html - The Life of a Leader
 -
 
 
-Psalm 119:49–56
+Psalm 119:57–64
 
 ---- Devos ----
 -
 
 
-1 Timothy 2:1–15
+1 Timothy 3:1–16
 
 ---- Devos ----
 -
 
 
-Jeremiah 35:1–37:21
+Jeremiah 38:1–40:6
 
 ---- Devos ----
 -
