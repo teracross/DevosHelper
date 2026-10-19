@@ -1,22 +1,22 @@
-date: 10/18/2026
+date: 10/19/2026
 body:
-https://bible.alpha.org/en/classic/291/index.html - The Life of a Leader
+https://bible.alpha.org/en/classic/292/index.html - Words, the Word of God and 'words'
 -
 
 
-Psalm 119:57–64
+Proverbs 25:11–20
 
 ---- Devos ----
 -
 
 
-1 Timothy 3:1–16
+1 Timothy 4:1–16
 
 ---- Devos ----
 -
 
 
-Jeremiah 38:1–40:6
+Jeremiah 40:7–42:22
 
 ---- Devos ----
 -
