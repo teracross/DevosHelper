@@ -1,22 +1,22 @@
-date: 10/19/2026
+date: 10/20/2026
 body:
-https://bible.alpha.org/en/classic/292/index.html - Words, the Word of God and 'words'
+https://bible.alpha.org/en/classic/293/index.html - Hard Times
 -
 
 
-Proverbs 25:11–20
+Psalm 119:65–72
 
 ---- Devos ----
 -
 
 
-1 Timothy 4:1–16
+1 Timothy 5:1–6:2
 
 ---- Devos ----
 -
 
 
-Jeremiah 40:7–42:22
+Jeremiah 43:1–45:5
 
 ---- Devos ----
 -
