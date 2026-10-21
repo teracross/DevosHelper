@@ -1,22 +1,22 @@
-date: 10/20/2026
+date: 10/21/2026
 body:
-https://bible.alpha.org/en/classic/293/index.html - Hard Times
+https://bible.alpha.org/en/classic/294/index.html - Living Content
 -
 
 
-Psalm 119:65–72
+Psalm 119:73–80
 
 ---- Devos ----
 -
 
 
-1 Timothy 5:1–6:2
+1 Timothy 6:3–21
 
 ---- Devos ----
 -
 
 
-Jeremiah 43:1–45:5
+Jeremiah 46:1–47:7
 
 ---- Devos ----
 -
