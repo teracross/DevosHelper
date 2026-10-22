@@ -1,22 +1,22 @@
-date: 10/21/2026
+date: 10/22/2026
 body:
-https://bible.alpha.org/en/classic/294/index.html - Living Content
+https://bible.alpha.org/en/classic/295/index.html - Your Most Important Task
 -
 
 
-Psalm 119:73–80
+Psalm 119:81–88
 
 ---- Devos ----
 -
 
 
-1 Timothy 6:3–21
+2 Timothy 1:1–18
 
 ---- Devos ----
 -
 
 
-Jeremiah 46:1–47:7
+Jeremiah 48:1–49:6
 
 ---- Devos ----
 -
