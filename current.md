@@ -1,22 +1,22 @@
-date: 10/22/2026
+date: 10/23/2026
 body:
-https://bible.alpha.org/en/classic/295/index.html - Your Most Important Task
+https://bible.alpha.org/en/classic/296/index.html - Twenty-Five Ways to Be Useful to God
 -
 
 
-Psalm 119:81–88
+Proverbs 25:21–26:2
 
 ---- Devos ----
 -
 
 
-2 Timothy 1:1–18
+2 Timothy 2:1–26
 
 ---- Devos ----
 -
 
 
-Jeremiah 48:1–49:6
+Jeremiah 49:7–50:10
 
 ---- Devos ----
 -
