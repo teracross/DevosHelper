@@ -1,22 +1,22 @@
-date: 10/25/2026
+date: 10/26/2026
 body:
-https://bible.alpha.org/en/classic/298/index.html - Your Most Valuable Possession
+https://bible.alpha.org/en/classic/299/index.html - If It’s Not All Right, Then It’s Not the End
 -
 
 
-Psalm 119:97–104
+Psalm 119:105–112
 
 ---- Devos ----
 -
 
 
-2 Timothy 4:1–22
+Titus 1:1–16
 
 ---- Devos ----
 -
 
 
-Jeremiah 51:15–64
+Jeremiah 52:1–34
 
 ---- Devos ----
 -
