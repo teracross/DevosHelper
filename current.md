@@ -1,22 +1,22 @@
-date: 10/26/2026
+date: 10/27/2026
 body:
-https://bible.alpha.org/en/classic/299/index.html - If It’s Not All Right, Then It’s Not the End
+https://bible.alpha.org/en/classic/300/index.html - Challenging Contradictions
 -
 
 
-Psalm 119:105–112
+Proverbs 26:3–12
 
 ---- Devos ----
 -
 
 
-Titus 1:1–16
+Titus 2:1–15
 
 ---- Devos ----
 -
 
 
-Jeremiah 52:1–34
+Habakkuk 1:1–3:19
 
 ---- Devos ----
 -
