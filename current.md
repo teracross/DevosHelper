@@ -1,22 +1,22 @@
-date: 10/27/2026
+date: 10/28/2026
 body:
-https://bible.alpha.org/en/classic/300/index.html - Challenging Contradictions
+https://bible.alpha.org/en/classic/301/index.html - Do Good
 -
 
 
-Proverbs 26:3–12
+Psalm 119:113–120
 
 ---- Devos ----
 -
 
 
-Titus 2:1–15
+Titus 3:1–15
 
 ---- Devos ----
 -
 
 
-Habakkuk 1:1–3:19
+Lamentations 1:1–2:6
 
 ---- Devos ----
 -
