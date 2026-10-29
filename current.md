@@ -1,22 +1,22 @@
-date: 10/28/2026
+date: 10/29/2026
 body:
-https://bible.alpha.org/en/classic/301/index.html - Do Good
+https://bible.alpha.org/en/classic/302/index.html - How to Refresh Your Mind, Heart and Soul
 -
 
 
-Psalm 119:113–120
+Psalm 119:121–128
 
 ---- Devos ----
 -
 
 
-Titus 3:1–15
+Philemon 1–25
 
 ---- Devos ----
 -
 
 
-Lamentations 1:1–2:6
+Lamentations 2:7–3:39
 
 ---- Devos ----
 -
