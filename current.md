@@ -1,22 +1,22 @@
-date: 10/29/2026
+date: 10/30/2026
 body:
-https://bible.alpha.org/en/classic/302/index.html - How to Refresh Your Mind, Heart and Soul
+https://bible.alpha.org/en/classic/303/index.html - Your Key to Life
 -
 
 
-Psalm 119:121–128
+Psalm 119:129–136
 
 ---- Devos ----
 -
 
 
-Philemon 1–25
+Hebrews 1:1–14
 
 ---- Devos ----
 -
 
 
-Lamentations 2:7–3:39
+Lamentations 3:40–5:22
 
 ---- Devos ----
 -
