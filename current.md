@@ -1,22 +1,22 @@
-date: 10/30/2026
+date: 10/31/2026
 body:
-https://bible.alpha.org/en/classic/303/index.html - Your Key to Life
+https://bible.alpha.org/en/classic/304/index.html - The Surprising Secret of Freedom
 -
 
 
-Psalm 119:129–136
+Proverbs 26:13–22
 
 ---- Devos ----
 -
 
 
-Hebrews 1:1–14
+Hebrews 2:1–18
 
 ---- Devos ----
 -
 
 
-Lamentations 3:40–5:22
+Obadiah 1–21
 
 ---- Devos ----
 -
