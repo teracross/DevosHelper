@@ -1,22 +1,22 @@
-date: 10/31/2026
+date: 11/1/2026
 body:
-https://bible.alpha.org/en/classic/304/index.html - The Surprising Secret of Freedom
+https://bible.alpha.org/en/classic/305/index.html - Fix Your Thoughts
 -
 
 
-Proverbs 26:13–22
+Psalm 119:137–144
 
 ---- Devos ----
 -
 
 
-Hebrews 2:1–18
+Hebrews 3:1–19
 
 ---- Devos ----
 -
 
 
-Obadiah 1–21
+Joel 1:1–2:17
 
 ---- Devos ----
 -
