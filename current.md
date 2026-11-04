@@ -1,22 +1,22 @@
-date: 11/3/2026
+date: 11/4/2026
 body:
-https://bible.alpha.org/en/classic/307/index.html - How Can You Approach God?
+https://bible.alpha.org/en/classic/308/index.html - Loving Warnings
 -
 
 
-Psalm 119:153–160
+Proverbs 26:23–27:4
 
 ---- Devos ----
 -
 
 
-Hebrews 4:14–5:10
+Hebrews 5:11–6:12
 
 ---- Devos ----
 -
 
 
-Ezekiel 1:1–3:27
+Ezekiel 4:1–6:14
 
 ---- Devos ----
 -
