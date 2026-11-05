@@ -1,22 +1,22 @@
-date: 11/4/2026
+date: 11/5/2026
 body:
-https://bible.alpha.org/en/classic/308/index.html - Loving Warnings
+https://bible.alpha.org/en/classic/309/index.html - The Promises of God
 -
 
 
-Proverbs 26:23–27:4
+Psalm 119:161–168
 
 ---- Devos ----
 -
 
 
-Hebrews 5:11–6:12
+Hebrews 6:13–7:10
 
 ---- Devos ----
 -
 
 
-Ezekiel 4:1–6:14
+Ezekiel 7:1–9:11
 
 ---- Devos ----
 -
