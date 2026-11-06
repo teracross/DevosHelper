@@ -1,22 +1,22 @@
-date: 11/5/2026
+date: 11/6/2026
 body:
-https://bible.alpha.org/en/classic/309/index.html - The Promises of God
+https://bible.alpha.org/en/classic/310/index.html - It’s Who You Know
 -
 
 
-Psalm 119:161–168
+Psalm 119:169–176
 
 ---- Devos ----
 -
 
 
-Hebrews 6:13–7:10
+Hebrews 7:11–28
 
 ---- Devos ----
 -
 
 
-Ezekiel 7:1–9:11
+Ezekiel 10:1–12:28
 
 ---- Devos ----
 -
