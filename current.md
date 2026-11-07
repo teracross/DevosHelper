@@ -1,22 +1,22 @@
-date: 11/6/2026
+date: 11/7/2026
 body:
-https://bible.alpha.org/en/classic/310/index.html - It’s Who You Know
+https://bible.alpha.org/en/classic/311/index.html - The Answer to Loneliness
 -
 
 
-Psalm 119:169–176
+Psalm 120:1–7
 
 ---- Devos ----
 -
 
 
-Hebrews 7:11–28
+Hebrews 8:1–13
 
 ---- Devos ----
 -
 
 
-Ezekiel 10:1–12:28
+Ezekiel 13:1–15:8
 
 ---- Devos ----
 -
