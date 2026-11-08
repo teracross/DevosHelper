@@ -1,22 +1,22 @@
-date: 11/7/2026
+date: 11/8/2026
 body:
-https://bible.alpha.org/en/classic/311/index.html - The Answer to Loneliness
+https://bible.alpha.org/en/classic/312/index.html - Meet Your Blood Donor
 -
 
 
-Psalm 120:1–7
+Proverbs 27:5–14
 
 ---- Devos ----
 -
 
 
-Hebrews 8:1–13
+Hebrews 9:1–15
 
 ---- Devos ----
 -
 
 
-Ezekiel 13:1–15:8
+Ezekiel 16:1–63
 
 ---- Devos ----
 -
