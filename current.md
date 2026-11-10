@@ -1,22 +1,22 @@
-date: 11/9/2026
+date: 11/10/2026
 body:
-https://bible.alpha.org/en/classic/313/index.html - Once For All
+https://bible.alpha.org/en/classic/314/index.html - Beauty
 -
 
 
-Psalm 121:1–8
+Psalm 122:1–9
 
 ---- Devos ----
 -
 
 
-Hebrews 9:16–28
+Hebrews 10:1–18
 
 ---- Devos ----
 -
 
 
-Ezekiel 17:1–18:32
+Ezekiel 19:1–20:44
 
 ---- Devos ----
 -
