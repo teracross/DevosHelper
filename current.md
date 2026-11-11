@@ -1,22 +1,22 @@
-date: 11/10/2026
+date: 11/11/2026
 body:
-https://bible.alpha.org/en/classic/314/index.html - Beauty
+https://bible.alpha.org/en/classic/315/index.html - Stick At It
 -
 
 
-Psalm 122:1–9
+Psalm 123:1–4
 
 ---- Devos ----
 -
 
 
-Hebrews 10:1–18
+Hebrews 10:19–39
 
 ---- Devos ----
 -
 
 
-Ezekiel 19:1–20:44
+Ezekiel 20:45–22:22
 
 ---- Devos ----
 -
