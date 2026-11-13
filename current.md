@@ -1,22 +1,22 @@
-date: 11/12/2026
+date: 11/13/2026
 body:
-https://bible.alpha.org/en/classic/316/index.html - What is Faith?
+https://bible.alpha.org/en/classic/317/index.html - Three Ways You Can Exercise Faith
 -
 
 
-Proverbs 27:15–22
+Psalm 124:1–8
 
 ---- Devos ----
 -
 
 
-Hebrews 11:1–16
+Hebrews 11:17–40
 
 ---- Devos ----
 -
 
 
-Ezekiel 22:23–23:49
+Ezekiel 24:1–25:17
 
 ---- Devos ----
 -
