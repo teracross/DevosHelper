@@ -1,22 +1,22 @@
-date: 11/15/2026
+date: 11/16/2026
 body:
-https://bible.alpha.org/en/classic/319/index.html - Why and How to Worship
+https://bible.alpha.org/en/classic/320/index.html - Eight Characteristics of Christian Community
 -
 
 
-Psalm 126:1–6
+Proverbs 27:23–28:6
 
 ---- Devos ----
 -
 
 
-Hebrews 12:14–29
+Hebrews 13:1–25
 
 ---- Devos ----
 -
 
 
-Ezekiel 28:1–29:21
+Ezekiel 30:1–31:18
 
 ---- Devos ----
 -
