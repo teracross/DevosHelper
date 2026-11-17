@@ -1,22 +1,22 @@
-date: 11/16/2026
+date: 11/17/2026
 body:
-https://bible.alpha.org/en/classic/320/index.html - Eight Characteristics of Christian Community
+https://bible.alpha.org/en/classic/321/index.html - Five Ts of the Christian Life
 -
 
 
-Proverbs 27:23–28:6
+Psalm 127:1–5
 
 ---- Devos ----
 -
 
 
-Hebrews 13:1–25
+James 1:1–27
 
 ---- Devos ----
 -
 
 
-Ezekiel 30:1–31:18
+Ezekiel 32:1–33:20
 
 ---- Devos ----
 -
