@@ -1,22 +1,22 @@
-date: 11/17/2026
+date: 11/18/2026
 body:
-https://bible.alpha.org/en/classic/321/index.html - Five Ts of the Christian Life
+https://bible.alpha.org/en/classic/322/index.html - How Now Shall We Live?
 -
 
 
-Psalm 127:1–5
+Psalm 128:1–6
 
 ---- Devos ----
 -
 
 
-James 1:1–27
+James 2:1–26
 
 ---- Devos ----
 -
 
 
-Ezekiel 32:1–33:20
+Ezekiel 33:21–35:15
 
 ---- Devos ----
 -
