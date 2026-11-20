@@ -1,22 +1,22 @@
-date: 11/19/2026
+date: 11/20/2026
 body:
-https://bible.alpha.org/en/classic/323/index.html - Divine Connections
+https://bible.alpha.org/en/classic/324/index.html - You Can Resist Evil
 -
 
 
-Psalm 129:1–8
+Proverbs 28:7–17
 
 ---- Devos ----
 -
 
 
-James 3:1–18
+James 4:1–17
 
 ---- Devos ----
 -
 
 
-Ezekiel 36:1–37:28
+Ezekiel 38:1–39:29
 
 ---- Devos ----
 -
