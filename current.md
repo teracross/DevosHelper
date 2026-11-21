@@ -1,22 +1,22 @@
-date: 11/20/2026
+date: 11/21/2026
 body:
-https://bible.alpha.org/en/classic/324/index.html - You Can Resist Evil
+https://bible.alpha.org/en/classic/325/index.html - How to Pray with Power
 -
 
 
-Proverbs 28:7–17
+Psalm 130:1–8
 
 ---- Devos ----
 -
 
 
-James 4:1–17
+James 5:1–20
 
 ---- Devos ----
 -
 
 
-Ezekiel 38:1–39:29
+Ezekiel 40:1–49
 
 ---- Devos ----
 -
