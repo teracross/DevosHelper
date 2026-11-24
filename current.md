@@ -1,22 +1,22 @@
-date: 11/23/2026
+date: 11/24/2026
 body:
-https://bible.alpha.org/en/classic/327/index.html - Where is God?
+https://bible.alpha.org/en/classic/328/index.html - Your Example
 -
 
 
-Psalm 132:1–18
+Proverbs 28:18–28
 
 ---- Devos ----
 -
 
 
-1 Peter 2:4–25
+1 Peter 3:1–22
 
 ---- Devos ----
 -
 
 
-Ezekiel 43:1–44:31
+Ezekiel 45:1–46:24
 
 ---- Devos ----
 -
