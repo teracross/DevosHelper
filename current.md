@@ -1,22 +1,22 @@
-date: 11/24/2026
+date: 11/25/2026
 body:
-https://bible.alpha.org/en/classic/328/index.html - Your Example
+https://bible.alpha.org/en/classic/329/index.html - Know When to Kneel
 -
 
 
-Proverbs 28:18–28
+Psalm 133:1–3
 
 ---- Devos ----
 -
 
 
-1 Peter 3:1–22
+1 Peter 4:1–19
 
 ---- Devos ----
 -
 
 
-Ezekiel 45:1–46:24
+Ezekiel 47:1–48:35
 
 ---- Devos ----
 -
