@@ -1,22 +1,22 @@
-date: 11/25/2026
+date: 11/26/2026
 body:
-https://bible.alpha.org/en/classic/329/index.html - Know When to Kneel
+https://bible.alpha.org/en/classic/330/index.html - God's Great Grace
 -
 
 
-Psalm 133:1–3
+Psalm 134:1–3
 
 ---- Devos ----
 -
 
 
-1 Peter 4:1–19
+1 Peter 5:1–14
 
 ---- Devos ----
 -
 
 
-Ezekiel 47:1–48:35
+Daniel 1:1–2:23
 
 ---- Devos ----
 -
