@@ -1,22 +1,22 @@
-date: 11/27/2026
+date: 11/28/2026
 body:
-https://bible.alpha.org/en/classic/331/index.html - There Is a God and He Is Great
+https://bible.alpha.org/en/classic/332/index.html - How to Be Inspired
 -
 
 
-Psalm 135:1–12
+Proverbs 29:1–9
 
 ---- Devos ----
 -
 
 
-2 Peter 1:1–21
+2 Peter 2:1–22
 
 ---- Devos ----
 -
 
 
-Daniel 2:24–3:12
+Daniel 3:13–4:18
 
 ---- Devos ----
 -
